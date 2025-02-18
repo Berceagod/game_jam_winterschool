@@ -1001,6 +1001,8 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+<<<<<<< HEAD
+=======
 --- !u!1 &1854686244
 GameObject:
   m_ObjectHideFlags: 0
@@ -1179,6 +1181,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+>>>>>>> 77876d7e3ada4e0fa77cfc477568e01dfae15e10
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
