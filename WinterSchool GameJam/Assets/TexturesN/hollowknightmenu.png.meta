@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hollowknightmenu_0: -2178185712066898277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
