@@ -8,11 +8,13 @@ public class PlayerMovement : MonoBehaviour
     private Animator anim;
     private bool grounded;
 
+
     private void Awake()
     {
         //Grabs references for rigidbody and animator from game object.
         body = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+   
     }
 
     private void Update()
@@ -36,15 +38,22 @@ public class PlayerMovement : MonoBehaviour
 
     private void Jump()
     {
-        body.linearVelocity = new Vector2(body.linearVelocity.x, speed);
-        body.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-        anim.SetTrigger("jump");
-        grounded = false;
+
+    
+            body.linearVelocity = new Vector2(body.linearVelocity.x, speed);
+            body.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            anim.SetTrigger("jump");
+            grounded = false;
+        
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Ground")
+        {
+            anim.SetTrigger("idle");
             grounded = true;
+        }
+        
     }
 }
