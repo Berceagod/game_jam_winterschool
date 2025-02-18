@@ -225,7 +225,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 4
+  m_GravityScale: 3
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -250,6 +250,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  jumpForce: 12
 --- !u!95 &242818304
 Animator:
   serializedVersion: 7
@@ -587,8 +588,8 @@ GameObject:
   - component: {fileID: 1812060863}
   - component: {fileID: 1812060862}
   m_Layer: 0
-  m_Name: ground
-  m_TagString: Untagged
+  m_Name: Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
