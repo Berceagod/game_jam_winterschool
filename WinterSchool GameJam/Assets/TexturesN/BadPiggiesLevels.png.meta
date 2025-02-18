@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BadPiggiesLevels_0: -4877335566358335471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
