@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Extras.unity
     guid: 85b170a2e0b48b348ba33496723d672e
+  - enabled: 1
+    path: Assets/Scenes/StolenBerceaTest2.unity
+    guid: 61d8b1dc3e51fc64f9ff60f239fd9022
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
