@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 9b71f2cb6555d65418006af610f00aff
+guid: 288c0600b38af504bb608bfffc058416
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6682841691378035261
-    second: attack spider 400 px_0
-  - first:
-      213: -7501437793978687698
-    second: attack spider 400 px_1
-  - first:
-      213: -5005674266296236468
-    second: attack spider 400 px_2
+      213: -5456581511811481741
+    second: PauseMenuBackground_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: attack spider 400 px_0
+      name: PauseMenuBackground_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 18
-        width: 313
-        height: 250
+        x: 0
+        y: 0
+        width: 3200
+        height: 1800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c5dd3f83e6c143a0800000000000000
-      internalID: -6682841691378035261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attack spider 400 px_1
-      rect:
-        serializedVersion: 2
-        x: 471
-        y: 46
-        width: 294
-        height: 339
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2fd539121a85e790800000000000000
-      internalID: -7501437793978687698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attack spider 400 px_2
-      rect:
-        serializedVersion: 2
-        x: 863
-        y: 24
-        width: 336
-        height: 272
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c464918a6c5488ab0800000000000000
-      internalID: -5005674266296236468
+      spriteID: 37f338476045644b0800000000000000
+      internalID: -5456581511811481741
       vertices: []
       indices: 
       edges: []
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      attack spider 400 px_0: -6682841691378035261
-      attack spider 400 px_1: -7501437793978687698
-      attack spider 400 px_2: -5005674266296236468
+      PauseMenuBackground_0: -5456581511811481741
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
