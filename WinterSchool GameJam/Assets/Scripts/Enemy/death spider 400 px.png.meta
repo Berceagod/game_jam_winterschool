@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      death spider 400 px_0: -7441986950261490070
+      death spider 400 px_1: -7798590633528367648
+      death spider 400 px_2: 6556610071464287349
+      death spider 400 px_3: 6294336422192252750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
