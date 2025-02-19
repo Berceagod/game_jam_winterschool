@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: b53bc2e2628efef4ba2c3374e6428d3e
+guid: 0524b26eb1d73d14b993f8bf46534515
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9149558879057884159
-    second: Level1Button-removebg-preview_0
+      213: 7941110866397699199
+    second: Walking spider 400 px_0
+  - first:
+      213: -7574616010636982249
+    second: Walking spider 400 px_1
+  - first:
+      213: -8009073827774065424
+    second: Walking spider 400 px_2
+  - first:
+      213: -4772997715235165083
+    second: Walking spider 400 px_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Level1Button-removebg-preview_0
+      name: Walking spider 400 px_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 20
-        width: 655
-        height: 300
+        x: 53
+        y: 15
+        width: 290
+        height: 276
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff334c5f253c9fe70800000000000000
-      internalID: 9149558879057884159
+      spriteID: f7c11a9524e743e60800000000000000
+      internalID: 7941110866397699199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking spider 400 px_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 26
+        width: 331
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7180fffcede81e690800000000000000
+      internalID: -7574616010636982249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking spider 400 px_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 12
+        width: 297
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f416ab99cd0ad090800000000000000
+      internalID: -8009073827774065424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking spider 400 px_3
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 12
+        width: 238
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c28adcdd7e2cdb0800000000000000
+      internalID: -4772997715235165083
       vertices: []
       indices: 
       edges: []
@@ -147,8 +222,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Level1Button-removebg-preview_0: 9149558879057884159
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

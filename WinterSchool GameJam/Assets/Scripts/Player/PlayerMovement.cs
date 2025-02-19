@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private Animator anim;
     private bool grounded;
     private float lastGroundedY;
+    bool meleeAttack = false;
 
 
     private void Awake()
@@ -44,6 +45,8 @@ public class PlayerMovement : MonoBehaviour
         {
             anim.SetBool("falling", true);
             lastGroundedY = transform.position.y;
+            grounded = true;
+
         }
         //sets animation parameters
         anim.SetBool("run", horizontalInput != 0);
@@ -68,7 +71,13 @@ public class PlayerMovement : MonoBehaviour
             grounded = true;
             lastGroundedY = transform.position.y; // Update last grounded Y position
         }
+        if (collision.gameObject.CompareTag("Weapon"))
+        {
+            meleeAttack = true;
+            Physics2D.IgnoreLayerCollision(9, 8, true);
+        }   
     }
+
 
     private void OnCollisionExit2D(Collision2D collision)
     {
@@ -76,5 +85,14 @@ public class PlayerMovement : MonoBehaviour
         {
             grounded = false;
         }
+    }
+
+    public bool canAttack()
+    {
+        if (meleeAttack == true)
+        {
+            return true;
+        }
+        return false;
     }
 }
