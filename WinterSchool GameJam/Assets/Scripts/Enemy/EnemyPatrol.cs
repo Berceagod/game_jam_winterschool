@@ -25,7 +25,7 @@ public class EnemyPatrol : MonoBehaviour
     {
         initScale = enemy.localScale;
     }
-    private void OnDisable()
+     public void OnDisable()
     {
         anim.SetBool("moving", false);
     }

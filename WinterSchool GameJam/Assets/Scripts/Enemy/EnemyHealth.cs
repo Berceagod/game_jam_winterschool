@@ -13,12 +13,14 @@ public class EnemyHealth : MonoBehaviour
     [SerializeField] private float iFramesDuration;
     [SerializeField] private int numberOfFlashes;
     private SpriteRenderer spriteRend;
+    private EnemyPatrol enemyPatrol;
 
     private void Awake()
     {
         currentHealth = startingHealth;
         anim = GetComponent<Animator>();
         spriteRend = GetComponent<SpriteRenderer>();
+        enemyPatrol = GetComponent<EnemyPatrol>();
 
     }
 
@@ -38,6 +40,7 @@ public class EnemyHealth : MonoBehaviour
                 dead = true;
                 anim.SetTrigger("died");
                 GetComponent<SpiderEnemy>().enabled = false;
+                if (enemyPatrol != null) enemyPatrol.OnDisable();
             }
         }
     }

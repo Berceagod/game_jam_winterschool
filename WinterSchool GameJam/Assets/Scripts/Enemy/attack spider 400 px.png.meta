@@ -197,10 +197,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      attack spider 400 px_0: -6682841691378035261
-      attack spider 400 px_1: -7501437793978687698
-      attack spider 400 px_2: -5005674266296236468
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
