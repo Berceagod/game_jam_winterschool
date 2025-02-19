@@ -75,6 +75,7 @@ public class PMovement : MonoBehaviour
 
 	private void Update()
 	{
+        
         #region TIMERS
         LastOnGroundTime -= Time.deltaTime;
 		LastOnWallTime -= Time.deltaTime;
@@ -213,6 +214,19 @@ public class PMovement : MonoBehaviour
 			//Default gravity if standing on a platform or moving upwards
 			SetGravityScale(Data.gravityScale);
 		}
+
+        if (LastOnGroundTime > 0)
+{
+    Debug.Log("Player is grounded");
+}
+else
+{
+    Debug.Log("Player is NOT grounded");
+}
+bool isGrounded = Physics2D.OverlapBox(_groundCheckPoint.position, _groundCheckSize, 0, _groundLayer);
+Debug.Log("Grounded: " + isGrounded);
+
+
 		#endregion
     }
 
