@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 4661149240673476439}
   - component: {fileID: 2169760711966431309}
   - component: {fileID: 1809626529486907374}
-  - component: {fileID: 6384010829942616744}
   - component: {fileID: 5888645592121375225}
   - component: {fileID: 4150186792326637528}
   m_Layer: 0
@@ -133,87 +132,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   jumpForce: 12
---- !u!60 &6384010829942616744
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4173978359636795834}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5.12, y: 2.56}
-    newSize: {x: 5.12, y: 2.56}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39999998, y: -0.96}
-      - {x: 0.35999998, y: -0.71}
-      - {x: 0.37, y: -0.62}
-      - {x: 0.44, y: -0.62}
-      - {x: 0.48999998, y: -0.53999996}
-      - {x: 0.5, y: -0.39999998}
-      - {x: 0.5, y: -0.11}
-      - {x: 0.44, y: 0.04}
-      - {x: 0.5, y: 0.19}
-      - {x: 0.42, y: 0.26}
-      - {x: 0.34, y: 0.26999998}
-      - {x: 0.28, y: 0.26999998}
-      - {x: 0.19, y: 0.13}
-      - {x: 0.17, y: 0.16}
-      - {x: -0.099999994, y: 0.22999999}
-      - {x: -0.22, y: 0.12}
-      - {x: -0.48999998, y: -0.01}
-      - {x: -0.48999998, y: -0.049999997}
-      - {x: -0.39, y: -0.19}
-      - {x: -0.55, y: -0.35999998}
-      - {x: -0.55, y: -0.39999998}
-      - {x: -0.47, y: -0.48999998}
-      - {x: -0.44, y: -0.5}
-      - {x: -0.35999998, y: -0.52}
-      - {x: -0.35999998, y: -0.61}
-      - {x: -0.28, y: -0.66999996}
-      - {x: -0.45999998, y: -1.01}
-      - {x: -0.38, y: -1.22}
-      - {x: -0.26999998, y: -1.1999999}
-      - {x: -0.11, y: -1.24}
-      - {x: 0.26999998, y: -1.24}
-      - {x: 0.31, y: -1.1899999}
-      - {x: 0.26999998, y: -1.02}
-      - {x: 0.34, y: -1.01}
-  m_UseDelaunayMesh: 0
 --- !u!95 &5888645592121375225
 Animator:
   serializedVersion: 7
@@ -249,3 +167,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startingHealth: 10
+  iFramesDuration: 0
+  numberOfFlashes: 0
