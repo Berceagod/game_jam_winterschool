@@ -126,11 +126,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 51
+<<<<<<< HEAD
         y: 0
         width: 292
         height: 371
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        y: 54
+        width: 292
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 5ea65aaa2ef75595c36ddbab30537f623a2a9391
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -148,11 +156,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 442
+<<<<<<< HEAD
         y: 0
         width: 309
         height: 371
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        y: 52
+        width: 309
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 5ea65aaa2ef75595c36ddbab30537f623a2a9391
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -170,11 +186,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 847
+<<<<<<< HEAD
         y: 0
         width: 317
         height: 371
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        y: 34
+        width: 317
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 5ea65aaa2ef75595c36ddbab30537f623a2a9391
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -192,11 +216,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1232
+<<<<<<< HEAD
         y: 0
         width: 341
         height: 371
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        y: 8
+        width: 341
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 5ea65aaa2ef75595c36ddbab30537f623a2a9391
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -213,7 +245,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: c516393416390ed4dbcda0bb6a754c22
+=======
+    spriteID: 
+>>>>>>> 5ea65aaa2ef75595c36ddbab30537f623a2a9391
     internalID: 0
     vertices: []
     indices: 
