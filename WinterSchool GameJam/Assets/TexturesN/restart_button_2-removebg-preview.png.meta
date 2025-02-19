@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: a8d08be8b82948e40a2417d8ed0d5355
+guid: bdb337a52a4f80442b41066f1fabd0a7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8723437584806228363
-    second: falling sprites_0
-  - first:
-      213: -3901444676633017650
-    second: falling sprites_1
-  - first:
-      213: -1874838419394936996
-    second: falling sprites_2
+      213: -886316486811849078
+    second: restart_button_2-removebg-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: falling sprites_0
+      name: restart_button_2-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 21
-        width: 296
-        height: 522
+        x: 55
+        y: 43
+        width: 674
+        height: 236
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 57e45514cbf10f680800000000000000
-      internalID: -8723437584806228363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: falling sprites_1
-      rect:
-        serializedVersion: 2
-        x: 349
-        y: 6
-        width: 293
-        height: 526
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec24372ccb84bd9c0800000000000000
-      internalID: -3901444676633017650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: falling sprites_2
-      rect:
-        serializedVersion: 2
-        x: 699
-        y: 0
-        width: 296
-        height: 532
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5fb5b0146c3bf5e0800000000000000
-      internalID: -1874838419394936996
+      spriteID: a8ee105e9db23b3f0800000000000000
+      internalID: -886316486811849078
       vertices: []
       indices: 
       edges: []
@@ -197,10 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      falling sprites_0: -8723437584806228363
-      falling sprites_1: -3901444676633017650
-      falling sprites_2: -1874838419394936996
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
