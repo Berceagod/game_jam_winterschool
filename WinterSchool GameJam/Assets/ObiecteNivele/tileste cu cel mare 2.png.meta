@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 9e51bc6f0b240614e85f7974a079fe28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8088712173038983875
+    second: tileste cu cel mare 2_0
+  - first:
+      213: 6847609153997373457
+    second: tileste cu cel mare 2_1
+  - first:
+      213: -3181564628725757022
+    second: tileste cu cel mare 2_2
+  - first:
+      213: -9042688785121992202
+    second: tileste cu cel mare 2_3
+  - first:
+      213: -3006061577343069940
+    second: tileste cu cel mare 2_4
+  - first:
+      213: 7269832105157273684
+    second: tileste cu cel mare 2_5
+  - first:
+      213: -4481624031882211778
+    second: tileste cu cel mare 2_6
+  - first:
+      213: -2680663429804709717
+    second: tileste cu cel mare 2_7
+  - first:
+      213: 6590352832919888393
+    second: tileste cu cel mare 2_8
+  - first:
+      213: -1597556716191524466
+    second: tileste cu cel mare 2_9
+  - first:
+      213: 7030796340279459763
+    second: tileste cu cel mare 2_10
+  - first:
+      213: -8207911966250721133
+    second: tileste cu cel mare 2_11
+  - first:
+      213: -2267393537234336810
+    second: tileste cu cel mare 2_12
+  - first:
+      213: 4232802132242173163
+    second: tileste cu cel mare 2_13
+  - first:
+      213: 2990324173176566298
+    second: tileste cu cel mare 2_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cadd549dd0e04070800000000000000
+      internalID: 8088712173038983875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1100ab0de38970f50800000000000000
+      internalID: 6847609153997373457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab8adaa3dfc8d3d0800000000000000
+      internalID: -3181564628725757022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_3
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2008
+        width: 202
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1256cc57ae18280800000000000000
+      internalID: -9042688785121992202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_4
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0114851ce25846d0800000000000000
+      internalID: -3006061577343069940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_5
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45821ac48c1a3e460800000000000000
+      internalID: 7269832105157273684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_6
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1997
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e8eca00b21ec1c0800000000000000
+      internalID: -4481624031882211778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_7
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 1999
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba82c1830de5ccad0800000000000000
+      internalID: -2680663429804709717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_8
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1599
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902edaefbf2a57b50800000000000000
+      internalID: 6590352832919888393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_9
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1661
+        width: 202
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e895dde71a654d9e0800000000000000
+      internalID: -1597556716191524466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_10
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1597
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf397e4508629160800000000000000
+      internalID: 7030796340279459763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_11
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1597
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a2f7dd83a71e80800000000000000
+      internalID: -8207911966250721133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_12
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1597
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3812f47999880e0800000000000000
+      internalID: -2267393537234336810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_13
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 1597
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec8fc8ec1fedba30800000000000000
+      internalID: 4232802132242173163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileste cu cel mare 2_14
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 199
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12f379fdf3cf7920800000000000000
+      internalID: 2990324173176566298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tileste cu cel mare 2_0: 8088712173038983875
+      tileste cu cel mare 2_1: 6847609153997373457
+      tileste cu cel mare 2_10: 7030796340279459763
+      tileste cu cel mare 2_11: -8207911966250721133
+      tileste cu cel mare 2_12: -2267393537234336810
+      tileste cu cel mare 2_13: 4232802132242173163
+      tileste cu cel mare 2_14: 2990324173176566298
+      tileste cu cel mare 2_2: -3181564628725757022
+      tileste cu cel mare 2_3: -9042688785121992202
+      tileste cu cel mare 2_4: -3006061577343069940
+      tileste cu cel mare 2_5: 7269832105157273684
+      tileste cu cel mare 2_6: -4481624031882211778
+      tileste cu cel mare 2_7: -2680663429804709717
+      tileste cu cel mare 2_8: 6590352832919888393
+      tileste cu cel mare 2_9: -1597556716191524466
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
