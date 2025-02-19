@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: 9b71f2cb6555d65418006af610f00aff
+guid: 70ff7bd0f56ae554fa0547db451494fe
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6682841691378035261
-    second: attack spider 400 px_0
+      213: -7441986950261490070
+    second: death spider 400 px_0
   - first:
-      213: -7501437793978687698
-    second: attack spider 400 px_1
+      213: -7798590633528367648
+    second: death spider 400 px_1
   - first:
-      213: -5005674266296236468
-    second: attack spider 400 px_2
+      213: 6556610071464287349
+    second: death spider 400 px_2
+  - first:
+      213: 6294336422192252750
+    second: death spider 400 px_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,67 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: attack spider 400 px_0
+      name: death spider 400 px_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 18
-        width: 313
-        height: 250
+        x: 51
+        y: 0
+        width: 292
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c5dd3f83e6c143a0800000000000000
-      internalID: -6682841691378035261
+      spriteID: a6e329e4c40c8b890800000000000000
+      internalID: -7441986950261490070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attack spider 400 px_1
+      name: death spider 400 px_1
       rect:
         serializedVersion: 2
-        x: 471
-        y: 46
-        width: 294
-        height: 339
+        x: 442
+        y: 0
+        width: 309
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2fd539121a85e790800000000000000
-      internalID: -7501437793978687698
+      spriteID: 0e56ad33327d5c390800000000000000
+      internalID: -7798590633528367648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attack spider 400 px_2
+      name: death spider 400 px_2
       rect:
         serializedVersion: 2
-        x: 863
-        y: 24
-        width: 336
-        height: 272
+        x: 847
+        y: 0
+        width: 317
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c464918a6c5488ab0800000000000000
-      internalID: -5005674266296236468
+      spriteID: 57c90602f12cdfa50800000000000000
+      internalID: 6556610071464287349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death spider 400 px_3
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 341
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47829d80a9f95750800000000000000
+      internalID: 6294336422192252750
       vertices: []
       indices: 
       edges: []
@@ -188,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c516393416390ed4dbcda0bb6a754c22
     internalID: 0
     vertices: []
     indices: 
@@ -197,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      death spider 400 px_0: -7441986950261490070
+      death spider 400 px_1: -7798590633528367648
+      death spider 400 px_2: 6556610071464287349
+      death spider 400 px_3: 6294336422192252750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
