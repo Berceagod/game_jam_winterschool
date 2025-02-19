@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 3e1f926b0e12e3c4bb1ce484acfee0a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -362945863894071403
+    second: Tiles with collision final_0
+  - first:
+      213: 4196975031382178015
+    second: Tiles with collision final_1
+  - first:
+      213: -5449580709418852569
+    second: Tiles with collision final_2
+  - first:
+      213: -1306174693433459546
+    second: Tiles with collision final_3
+  - first:
+      213: 2367011955368564341
+    second: Tiles with collision final_4
+  - first:
+      213: -5170072599074153291
+    second: Tiles with collision final_5
+  - first:
+      213: -3625113657607980947
+    second: Tiles with collision final_6
+  - first:
+      213: -8794489345004572062
+    second: Tiles with collision final_7
+  - first:
+      213: 3201350781707215413
+    second: Tiles with collision final_8
+  - first:
+      213: 8941845484788494478
+    second: Tiles with collision final_9
+  - first:
+      213: 7013954374705196415
+    second: Tiles with collision final_10
+  - first:
+      213: -790632867866346323
+    second: Tiles with collision final_11
+  - first:
+      213: 1979268780713151408
+    second: Tiles with collision final_12
+  - first:
+      213: -5948026662152417272
+    second: Tiles with collision final_13
+  - first:
+      213: 1014042202357768221
+    second: Tiles with collision final_14
+  - first:
+      213: 5837314726703765669
+    second: Tiles with collision final_15
+  - first:
+      213: 6548578167195504777
+    second: Tiles with collision final_16
+  - first:
+      213: -4872583271439233578
+    second: Tiles with collision final_17
+  - first:
+      213: 4878617776668749515
+    second: Tiles with collision final_18
+  - first:
+      213: 3832390775686371262
+    second: Tiles with collision final_19
+  - first:
+      213: -6273385988221659036
+    second: Tiles with collision final_20
+  - first:
+      213: 1857599374137534900
+    second: Tiles with collision final_21
+  - first:
+      213: -5957853514679835699
+    second: Tiles with collision final_22
+  - first:
+      213: 4807245059810691181
+    second: Tiles with collision final_23
+  - first:
+      213: 4548473231745478453
+    second: Tiles with collision final_24
+  - first:
+      213: 7353869725897667630
+    second: Tiles with collision final_25
+  - first:
+      213: 787645823763432401
+    second: Tiles with collision final_26
+  - first:
+      213: 5386150952982323279
+    second: Tiles with collision final_27
+  - first:
+      213: -3794366704137364299
+    second: Tiles with collision final_28
+  - first:
+      213: -2587781233650784574
+    second: Tiles with collision final_29
+  - first:
+      213: -2023343568362727214
+    second: Tiles with collision final_30
+  - first:
+      213: -6054121660596447562
+    second: Tiles with collision final_31
+  - first:
+      213: -4913903325052053005
+    second: Tiles with collision final_32
+  - first:
+      213: -1954484541930952887
+    second: Tiles with collision final_33
+  - first:
+      213: -5804929180499095695
+    second: Tiles with collision final_34
+  - first:
+      213: 9100797238731611111
+    second: Tiles with collision final_35
+  - first:
+      213: 9214262048159960768
+    second: Tiles with collision final_36
+  - first:
+      213: 244178596905786012
+    second: Tiles with collision final_37
+  - first:
+      213: -7576824979695754992
+    second: Tiles with collision final_38
+  - first:
+      213: 5065454599042795714
+    second: Tiles with collision final_39
+  - first:
+      213: 2288639182186576903
+    second: Tiles with collision final_40
+  - first:
+      213: -4436686571888190022
+    second: Tiles with collision final_41
+  - first:
+      213: -7728089956134978291
+    second: Tiles with collision final_42
+  - first:
+      213: 879363088673774944
+    second: Tiles with collision final_43
+  - first:
+      213: -6379467917227195449
+    second: Tiles with collision final_44
+  - first:
+      213: -7021810075734436096
+    second: Tiles with collision final_45
+  - first:
+      213: 7177157705623769541
+    second: Tiles with collision final_46
+  - first:
+      213: 91265462376133792
+    second: Tiles with collision final_47
+  - first:
+      213: -4281731535104611167
+    second: Tiles with collision final_48
+  - first:
+      213: 3274311110884854564
+    second: Tiles with collision final_49
+  - first:
+      213: -4450075220178263106
+    second: Tiles with collision final_50
+  - first:
+      213: -6871260023145046622
+    second: Tiles with collision final_51
+  - first:
+      213: -2675834512745160052
+    second: Tiles with collision final_52
+  - first:
+      213: -8979742073306967483
+    second: Tiles with collision final_53
+  - first:
+      213: -8581741879143176379
+    second: Tiles with collision final_54
+  - first:
+      213: 7837099047190226713
+    second: Tiles with collision final_55
+  - first:
+      213: -7448994531544269439
+    second: Tiles with collision final_56
+  - first:
+      213: 7965233057074049214
+    second: Tiles with collision final_57
+  - first:
+      213: -2332103015058250184
+    second: Tiles with collision final_58
+  - first:
+      213: -8775825197278414142
+    second: Tiles with collision final_59
+  - first:
+      213: -5298405414181753725
+    second: Tiles with collision final_60
+  - first:
+      213: -1649574514292661931
+    second: Tiles with collision final_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 99
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiles with collision final_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59785e5e8ae86faf0800000000000000
+      internalID: -362945863894071403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8f7b4fd86ae3a30800000000000000
+      internalID: 4196975031382178015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f9448c7333f54b0800000000000000
+      internalID: -5449580709418852569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_3
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 3199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac3b4769098fdde0800000000000000
+      internalID: -1306174693433459546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_4
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 3199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57698da15d059d020800000000000000
+      internalID: 2367011955368564341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_5
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 3199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc54350d563048b0800000000000000
+      internalID: -5170072599074153291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_6
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 3199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68fbd7c55201bdc0800000000000000
+      internalID: -3625113657607980947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2799
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2627b023982b3f580800000000000000
+      internalID: -8794489345004572062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2802
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532e311139b7d6c20800000000000000
+      internalID: 3201350781707215413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_9
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2799
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80bf3da711d71c70800000000000000
+      internalID: 8941845484788494478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_10
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2802
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7da91f9752965160800000000000000
+      internalID: 7013954374705196415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_11
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2802
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacf31b789b1705f0800000000000000
+      internalID: -790632867866346323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_12
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 2799
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb8d6d2876c77b10800000000000000
+      internalID: 1979268780713151408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_13
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 2799
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8005ad7c34d547da0800000000000000
+      internalID: -5948026662152417272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2399
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d102acaa20a921e00800000000000000
+      internalID: 1014042202357768221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_15
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2399
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8955701de420150800000000000000
+      internalID: 5837314726703765669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2543
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980119fa52931ea50800000000000000
+      internalID: 6548578167195504777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_17
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2399
+        width: 73
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd8a57a45b116cb0800000000000000
+      internalID: -4872583271439233578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_18
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2399
+        width: 73
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce2f35150554b340800000000000000
+      internalID: 4878617776668749515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_19
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2528
+        width: 202
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb715490b136f2530800000000000000
+      internalID: 3832390775686371262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_20
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 2457
+        width: 186
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46892297ea470f8a0800000000000000
+      internalID: -6273385988221659036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_21
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 2399
+        width: 202
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9a47ee9c487c910800000000000000
+      internalID: 1857599374137534900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc322b16bc3715da0800000000000000
+      internalID: -5957853514679835699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_23
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2063
+        width: 202
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68844a79e3c6b240800000000000000
+      internalID: 4807245059810691181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_24
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2172
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fef803e4c6f1f30800000000000000
+      internalID: 4548473231745478453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_25
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 2172
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2431a0ad813e0660800000000000000
+      internalID: 7353869725897667630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_26
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 2056
+        width: 186
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d34d3e14b74eea00800000000000000
+      internalID: 787645823763432401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_27
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1999
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40a42331c37fba40800000000000000
+      internalID: 5386150952982323279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_28
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1999
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc92540693b75bc0800000000000000
+      internalID: -3794366704137364299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_29
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1999
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6a2dbbdaa561cd0800000000000000
+      internalID: -2587781233650784574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1599
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d81b25aeb3abe3e0800000000000000
+      internalID: -2023343568362727214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_31
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1599
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b696210d607bfba0800000000000000
+      internalID: -6054121660596447562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_32
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1599
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f959a9f5fe4ecbb0800000000000000
+      internalID: -4913903325052053005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_33
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1599
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947a6371aa640e4e0800000000000000
+      internalID: -1954484541930952887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_34
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1657
+        width: 186
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f4d0a8aafb07fa0800000000000000
+      internalID: -5804929180499095695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_35
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1656
+        width: 186
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb147bded68c4e70800000000000000
+      internalID: 9100797238731611111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce00f77382afdf70800000000000000
+      internalID: 9214262048159960768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_37
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1199
+        width: 202
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a9252e32f736300800000000000000
+      internalID: 244178596905786012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_38
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011adef13d5b9d690800000000000000
+      internalID: -7576824979695754992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_39
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c880d1be1c1c4640800000000000000
+      internalID: 5065454599042795714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_40
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1199
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c7541e531e2cf10800000000000000
+      internalID: 2288639182186576903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_41
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 1238
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abddbd6c119bd62c0800000000000000
+      internalID: -4436686571888190022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_42
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1338
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d7f4c412f40c490800000000000000
+      internalID: -7728089956134978291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_43
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1217
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d9df0f110243c00800000000000000
+      internalID: 879363088673774944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_44
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 1281
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c30ca9aab39777a0800000000000000
+      internalID: -6379467917227195449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_45
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 1221
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007179370f48d8e90800000000000000
+      internalID: -7021810075734436096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 799
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c199a438e26a9360800000000000000
+      internalID: 7177157705623769541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_47
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 799
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4f039547d344100800000000000000
+      internalID: 91265462376133792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_48
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 799
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac608abadb3494c0800000000000000
+      internalID: -4281731535104611167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_49
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 799
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b08687b90b07d20800000000000000
+      internalID: 3274311110884854564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_50
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 799
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3a18d2a282e32c0800000000000000
+      internalID: -4450075220178263106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_51
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 846
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2add8191a6164a0a0800000000000000
+      internalID: -6871260023145046622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_52
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 799
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82281610b68ddad0800000000000000
+      internalID: -2675834512745160052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_53
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 931
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54298e9392c816380800000000000000
+      internalID: -8979742073306967483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_54
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 812
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547e39b9a3787e880800000000000000
+      internalID: -8581741879143176379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_55
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 808
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91763598f08f2cc60800000000000000
+      internalID: 7837099047190226713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 398
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18df975a0fadf9890800000000000000
+      internalID: -7448994531544269439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_57
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 398
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0f81883413a8e60800000000000000
+      internalID: 7965233057074049214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_58
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 399
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836e5dfe9a4b2afd0800000000000000
+      internalID: -2332103015058250184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_59
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 399
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca3c49ba71063680800000000000000
+      internalID: -8775825197278414142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_60
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 399
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ca0b319584876b0800000000000000
+      internalID: -5298405414181753725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles with collision final_61
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 399
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5516c0518b88b19e0800000000000000
+      internalID: -1649574514292661931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiles with collision final_0: -362945863894071403
+      Tiles with collision final_1: 4196975031382178015
+      Tiles with collision final_10: 7013954374705196415
+      Tiles with collision final_11: -790632867866346323
+      Tiles with collision final_12: 1979268780713151408
+      Tiles with collision final_13: -5948026662152417272
+      Tiles with collision final_14: 1014042202357768221
+      Tiles with collision final_15: 5837314726703765669
+      Tiles with collision final_16: 6548578167195504777
+      Tiles with collision final_17: -4872583271439233578
+      Tiles with collision final_18: 4878617776668749515
+      Tiles with collision final_19: 3832390775686371262
+      Tiles with collision final_2: -5449580709418852569
+      Tiles with collision final_20: -6273385988221659036
+      Tiles with collision final_21: 1857599374137534900
+      Tiles with collision final_22: -5957853514679835699
+      Tiles with collision final_23: 4807245059810691181
+      Tiles with collision final_24: 4548473231745478453
+      Tiles with collision final_25: 7353869725897667630
+      Tiles with collision final_26: 787645823763432401
+      Tiles with collision final_27: 5386150952982323279
+      Tiles with collision final_28: -3794366704137364299
+      Tiles with collision final_29: -2587781233650784574
+      Tiles with collision final_3: -1306174693433459546
+      Tiles with collision final_30: -2023343568362727214
+      Tiles with collision final_31: -6054121660596447562
+      Tiles with collision final_32: -4913903325052053005
+      Tiles with collision final_33: -1954484541930952887
+      Tiles with collision final_34: -5804929180499095695
+      Tiles with collision final_35: 9100797238731611111
+      Tiles with collision final_36: 9214262048159960768
+      Tiles with collision final_37: 244178596905786012
+      Tiles with collision final_38: -7576824979695754992
+      Tiles with collision final_39: 5065454599042795714
+      Tiles with collision final_4: 2367011955368564341
+      Tiles with collision final_40: 2288639182186576903
+      Tiles with collision final_41: -4436686571888190022
+      Tiles with collision final_42: -7728089956134978291
+      Tiles with collision final_43: 879363088673774944
+      Tiles with collision final_44: -6379467917227195449
+      Tiles with collision final_45: -7021810075734436096
+      Tiles with collision final_46: 7177157705623769541
+      Tiles with collision final_47: 91265462376133792
+      Tiles with collision final_48: -4281731535104611167
+      Tiles with collision final_49: 3274311110884854564
+      Tiles with collision final_5: -5170072599074153291
+      Tiles with collision final_50: -4450075220178263106
+      Tiles with collision final_51: -6871260023145046622
+      Tiles with collision final_52: -2675834512745160052
+      Tiles with collision final_53: -8979742073306967483
+      Tiles with collision final_54: -8581741879143176379
+      Tiles with collision final_55: 7837099047190226713
+      Tiles with collision final_56: -7448994531544269439
+      Tiles with collision final_57: 7965233057074049214
+      Tiles with collision final_58: -2332103015058250184
+      Tiles with collision final_59: -8775825197278414142
+      Tiles with collision final_6: -3625113657607980947
+      Tiles with collision final_60: -5298405414181753725
+      Tiles with collision final_61: -1649574514292661931
+      Tiles with collision final_7: -8794489345004572062
+      Tiles with collision final_8: 3201350781707215413
+      Tiles with collision final_9: 8941845484788494478
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
