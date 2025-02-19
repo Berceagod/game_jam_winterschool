@@ -473,7 +473,7 @@ GameObject:
   - component: {fileID: 969922575}
   - component: {fileID: 969922574}
   - component: {fileID: 969922573}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Spines (1)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -489,7 +489,7 @@ Transform:
   m_GameObject: {fileID: 969922571}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.02, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -744,7 +744,7 @@ GameObject:
   - component: {fileID: 1375713705}
   - component: {fileID: 1375713704}
   - component: {fileID: 1375713703}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Spines
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -924,13 +924,33 @@ PrefabInstance:
       propertyPath: m_GravityScale
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 2169760711966431309, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
+      propertyPath: m_AngularDamping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2169760711966431309, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4150186792326637528, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
       propertyPath: startingHealth
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 4150186792326637528, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
+      propertyPath: iFramesDuration
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4150186792326637528, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
+      propertyPath: numberOfFlashes
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4173978359636795834, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173978359636795834, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 4173978359636795834, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
       propertyPath: m_TagString
@@ -1012,15 +1032,15 @@ RectTransform:
   m_GameObject: {fileID: 1514128103}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1861370533}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -584, y: 484}
-  m_SizeDelta: {x: 1060.7532, y: 77.2872}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 331, y: -56}
+  m_SizeDelta: {x: 1225, y: 128}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1514128105
 MonoBehaviour:
@@ -1187,7 +1207,7 @@ GameObject:
   - component: {fileID: 1812060860}
   - component: {fileID: 1812060863}
   - component: {fileID: 1812060862}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Ground
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1417,15 +1437,15 @@ RectTransform:
   m_GameObject: {fileID: 1980401204}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1861370533}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -584, y: 484}
-  m_SizeDelta: {x: 1060.7532, y: 77.2872}
+  m_AnchoredPosition: {x: -629, y: 484}
+  m_SizeDelta: {x: 1225, y: 128}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1980401206
 MonoBehaviour:
