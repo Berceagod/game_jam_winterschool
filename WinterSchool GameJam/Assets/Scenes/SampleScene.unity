@@ -177,7 +177,7 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 2.92, y: 3.17}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
@@ -272,7 +272,7 @@ Transform:
   m_GameObject: {fileID: 12247717}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.7127, y: -1.1583, z: 0.039288785}
+  m_LocalPosition: {x: -10.3, y: -1.34, z: 0.039288785}
   m_LocalScale: {x: 1.2763, y: 1.4907, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -310,13 +310,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4257fc141b4703b49bb030ad8e85f104, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingHealth: 1
-  <currentHealth>k__BackingField: 0
-  anim: {fileID: 0}
-  dead: 0
+  startingHealth: 2
   iFramesDuration: 2
   numberOfFlashes: 1
-  spriteRend: {fileID: 0}
 --- !u!1 &346352944
 GameObject:
   m_ObjectHideFlags: 0
@@ -1527,9 +1523,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackCooldown: 1
-  attackRange: 1
+  attackRange: 2
   attackDamage: 10
-  colliderDistance: 0
+  colliderDistance: 0.45
   boxCollider: {fileID: 1117164064}
   enemyLayer:
     serializedVersion: 2
@@ -1803,6 +1799,10 @@ PrefabInstance:
       value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 2169760711966431309, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2169760711966431309, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
       propertyPath: m_GravityScale
       value: 4
       objectReference: {fileID: 0}
@@ -1841,7 +1841,7 @@ PrefabInstance:
     - target: {fileID: 4661149240673476439, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -5254763888643210246, guid: 7208a21aa6c645d4ea0a78689213fb6c, type: 3}
+      objectReference: {fileID: -4943706358838483705, guid: 4913c775183e7c3489daa4ecba10b6f9, type: 3}
     - target: {fileID: 4661149240673476439, guid: c32160b75b3b6634d9520ff5cc58a93f, type: 3}
       propertyPath: m_SortingOrder
       value: 10
