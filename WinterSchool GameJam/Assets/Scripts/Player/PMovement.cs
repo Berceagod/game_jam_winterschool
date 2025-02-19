@@ -8,6 +8,7 @@
 
 using System.Collections;
 using UnityEngine;
+using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 public class PMovement : MonoBehaviour
 {
@@ -63,6 +64,9 @@ public class PMovement : MonoBehaviour
 
     private Animator anim;
     private bool meleeAttack = false;
+
+    private bool isLadder;
+    private bool isClimbing;
     #endregion
 
     private void Awake()
@@ -107,10 +111,14 @@ public class PMovement : MonoBehaviour
 		{
 			OnJumpUpInput();
 		}
-		#endregion
+        if (isLadder && Mathf.Abs(_moveInput.y) > 0f)
+        {
+            isClimbing = true;
+        }
+        #endregion
 
-		#region COLLISION CHECKS
-		if (!IsJumping)
+        #region COLLISION CHECKS
+        if (!IsJumping)
 		{
 			//Ground Check
 			if (Physics2D.OverlapBox(_groundCheckPoint.position, _groundCheckSize, 0, _groundLayer) && !IsJumping) //checks if set box overlaps with ground
@@ -131,10 +139,12 @@ public class PMovement : MonoBehaviour
 			//Two checks needed for both left and right walls since whenever the play turns the wall checkPoints swap sides
 			LastOnWallTime = Mathf.Max(LastOnWallLeftTime, LastOnWallRightTime);
 		}
-		#endregion
 
-		#region JUMP CHECKS
-		if (IsJumping && RB.linearVelocity.y < 0)
+     
+        #endregion
+
+        #region JUMP CHECKS
+        if (IsJumping && RB.linearVelocity.y < 0)
 		{
 			IsJumping = false;
 
@@ -256,6 +266,17 @@ Debug.Log("Grounded: " + isGrounded);
 		//Handle Slide
 		if (IsSliding)
 			Slide();
+
+		if (isClimbing)
+		{
+			//RB.gravityScale = 0f;
+			RB.linearVelocity = new Vector2(RB.linearVelocity.x, _moveInput.y * Data.runMaxSpeed);
+			anim.SetBool("climb", true);
+		}
+		else
+		{
+			anim.SetBool("climb", false);
+		}
     }
 
     #region INPUT CALLBACKS
@@ -283,6 +304,24 @@ Debug.Log("Grounded: " + isGrounded);
         {
             meleeAttack = true;
             Physics2D.IgnoreLayerCollision(9, 8, true);
+        }
+
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ladder"))
+        {
+            isLadder = true;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ladder"))
+        {
+            isLadder = false;
+            isClimbing = false;
         }
     }
     #endregion
