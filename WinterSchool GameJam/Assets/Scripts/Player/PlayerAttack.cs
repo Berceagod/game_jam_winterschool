@@ -1,59 +1,72 @@
 using UnityEngine;
 
-public class PlayerAttack : MonoBehaviour
+public class PlayerMeleeAttack : MonoBehaviour
 {
- 
-
     [Header("Attack Parameters")]
-    [SerializeField] private float attackCooldown;
-    [SerializeField] private float range;
-    [SerializeField] private int damage;
+    [SerializeField] private float attackCooldown = 0.5f;
+    [SerializeField] private float attackRange = 1f;
+    [SerializeField] private int attackDamage = 10;
 
     [Header("Collider Parameters")]
-    [SerializeField] private float colliderDistance;
+    [SerializeField] private float colliderDistance = 0.5f;
     [SerializeField] private BoxCollider2D boxCollider;
-
-    [Header("Enemy Layer")]
     [SerializeField] private LayerMask enemyLayer;
-    private float cooldownTimer = Mathf.Infinity;
-    private Animator anim;
+
     private PlayerMovement playerMovement;
-
-
+    private Animator anim;
+    private float cooldownTimer = Mathf.Infinity;
 
     private void Awake()
     {
         anim = GetComponent<Animator>();
         playerMovement = GetComponent<PlayerMovement>();
+
+        // Ensure boxCollider is assigned
+        if (boxCollider == null)
+            boxCollider = GetComponent<BoxCollider2D>();
     }
 
     private void Update()
     {
-        if (Input.GetMouseButton(0) && cooldownTimer > attackCooldown && playerMovement.canAttack())
-            Attack();
-
         cooldownTimer += Time.deltaTime;
+
+        if (Input.GetMouseButtonDown(0) && cooldownTimer >= attackCooldown && playerMovement.canAttack())
+        {
+            Attack();
+        }
     }
 
     private void Attack()
     {
-        cooldownTimer = 0;
         anim.SetTrigger("meleeAttack");
+        cooldownTimer = 0;
+        DamageEnemies();
+    }
 
-        // Check for enemy hit
-        RaycastHit2D hit = Physics2D.BoxCast(
-            boxCollider.bounds.center + transform.right * range * transform.localScale.x * colliderDistance,
-            new Vector3(boxCollider.bounds.size.x * range, boxCollider.bounds.size.y, boxCollider.bounds.size.z),
-            0, Vector2.left, 0, enemyLayer);
+    private void DamageEnemies()
+    {
+        RaycastHit2D[] hits = Physics2D.BoxCastAll(
+            boxCollider.bounds.center + transform.right * attackRange * transform.localScale.x * colliderDistance,
+            new Vector3(boxCollider.bounds.size.x * attackRange, boxCollider.bounds.size.y, boxCollider.bounds.size.z),
+            0, Vector2.zero, 0, enemyLayer);
 
-        if (hit.collider != null)
+        foreach (RaycastHit2D hit in hits)
         {
-            Health enemyHealth = hit.transform.GetComponent<Health>();
+            EnemyHealth enemyHealth = hit.transform.GetComponent<EnemyHealth>();
             if (enemyHealth != null)
             {
-                enemyHealth.TakeDamage(damage);
+                enemyHealth.TakeDamage(attackDamage);
             }
         }
     }
-   
+
+    // Debugging attack range in Scene View
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireCube(
+            boxCollider.bounds.center + transform.right * attackRange * transform.localScale.x * colliderDistance,
+            new Vector3(boxCollider.bounds.size.x * attackRange, boxCollider.bounds.size.y, boxCollider.bounds.size.z)
+        );
+    }
 }
