@@ -59,7 +59,7 @@ public class PlayerMovement : MonoBehaviour
     
             body.linearVelocity = new Vector2(body.linearVelocity.x, speed);
             body.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            anim.SetTrigger("jump");
+            anim.SetTrigger("Jump");
             grounded = false;
         
     }
