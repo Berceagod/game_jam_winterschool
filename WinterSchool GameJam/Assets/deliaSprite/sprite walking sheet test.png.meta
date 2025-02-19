@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprite walking sheet test_0: 1244427080979075924
+      sprite walking sheet test_1: -5124118500462268111
+      sprite walking sheet test_2: 3798293581687112434
+      sprite walking sheet test_3: -4551400198685763171
+      sprite walking sheet test_4: -3686964567297117660
+      sprite walking sheet test_5: 4037156747842678292
+      sprite walking sheet test_6: 1731446559404304198
+      sprite walking sheet test_7: -7650959920824122386
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
