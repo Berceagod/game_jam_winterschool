@@ -60,12 +60,16 @@ public class PMovement : MonoBehaviour
 
     [Header("Layers & Tags")]
 	[SerializeField] private LayerMask _groundLayer;
-	#endregion
+
+    private Animator anim;
+    private bool meleeAttack = false;
+    #endregion
 
     private void Awake()
 	{
 		RB = GetComponent<Rigidbody2D>();
-	}
+        anim = GetComponent<Animator>();
+    }
 
 	private void Start()
 	{
@@ -89,7 +93,9 @@ public class PMovement : MonoBehaviour
 		_moveInput.x = Input.GetAxisRaw("Horizontal");
 		_moveInput.y = Input.GetAxisRaw("Vertical");
 
-		if (_moveInput.x != 0)
+       
+
+        if (_moveInput.x != 0)
 			CheckDirectionToFace(_moveInput.x > 0);
 
 		if(Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.C) || Input.GetKeyDown(KeyCode.J))
@@ -170,10 +176,12 @@ public class PMovement : MonoBehaviour
 			
 			WallJump(_lastWallJumpDir);
 		}
-		#endregion
 
-		#region SLIDE CHECKS
-		if (CanSlide() && ((LastOnWallLeftTime > 0 && _moveInput.x < 0) || (LastOnWallRightTime > 0 && _moveInput.x > 0)))
+      
+        #endregion
+
+        #region SLIDE CHECKS
+        if (CanSlide() && ((LastOnWallLeftTime > 0 && _moveInput.x < 0) || (LastOnWallRightTime > 0 && _moveInput.x > 0)))
 			IsSliding = true;
 		else
 			IsSliding = false;
@@ -224,13 +232,20 @@ else
     Debug.Log("Player is NOT grounded");
 }
 bool isGrounded = Physics2D.OverlapBox(_groundCheckPoint.position, _groundCheckSize, 0, _groundLayer);
+		if (isGrounded)
+			anim.SetBool("grounded", true);
+		else
+			anim.SetBool("grounded", false);
 Debug.Log("Grounded: " + isGrounded);
 
 
 		#endregion
-    }
 
-    private void FixedUpdate()
+		anim.SetBool("run", _moveInput.x != 0);
+
+	}
+
+	private void FixedUpdate()
 	{
 		//Handle Run
 		if (IsWallJumping)
@@ -262,9 +277,17 @@ Debug.Log("Grounded: " + isGrounded);
 	{
 		RB.gravityScale = scale;
 	}
+    private void OnCollisionEnter2D(Collision2D collision)
+	{
+        if (collision.gameObject.CompareTag("Weapon"))
+        {
+            meleeAttack = true;
+            Physics2D.IgnoreLayerCollision(9, 8, true);
+        }
+    }
     #endregion
 
-	//MOVEMENT METHODS
+    //MOVEMENT METHODS
     #region RUN METHODS
     private void Run(float lerpAmount)
 	{
@@ -346,8 +369,11 @@ Debug.Log("Grounded: " + isGrounded);
 			force -= RB.linearVelocity.y;
 
 		RB.AddForce(Vector2.up * force, ForceMode2D.Impulse);
-		#endregion
-	}
+
+        anim.SetBool("Jump",true);
+
+        #endregion
+    }
 
 	private void WallJump(int dir)
 	{
@@ -425,6 +451,16 @@ Debug.Log("Grounded: " + isGrounded);
 		else
 			return false;
 	}
+
+    //ATTACK
+    public bool canAttack()
+    {
+        if (meleeAttack == true)
+        {
+            return true;
+        }
+        return false;
+    }
     #endregion
 
 
@@ -438,6 +474,8 @@ Debug.Log("Grounded: " + isGrounded);
 		Gizmos.DrawWireCube(_backWallCheckPoint.position, _wallCheckSize);
 	}
     #endregion
+
+
 }
 
 // created by Dawnosaur :D

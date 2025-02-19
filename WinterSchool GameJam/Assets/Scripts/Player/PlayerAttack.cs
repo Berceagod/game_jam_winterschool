@@ -12,14 +12,14 @@ public class PlayerMeleeAttack : MonoBehaviour
     [SerializeField] private BoxCollider2D boxCollider;
     [SerializeField] private LayerMask enemyLayer;
 
-    private PlayerMovement playerMovement;
+    private PMovement playerMovement;
     private Animator anim;
     private float cooldownTimer = Mathf.Infinity;
 
     private void Awake()
     {
         anim = GetComponent<Animator>();
-        playerMovement = GetComponent<PlayerMovement>();
+        playerMovement = GetComponent<PMovement>();
 
         // Ensure boxCollider is assigned
         if (boxCollider == null)
