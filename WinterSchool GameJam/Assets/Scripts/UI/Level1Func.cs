@@ -5,6 +5,6 @@ public class Level1 : MonoBehaviour
 {
     public void Level1Func()
     {
-        SceneManager.LoadSceneAsync("StolenBerceaTest2");
+        SceneManager.LoadSceneAsync("StolenBerceaTest3");
     }
 }
