@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 4e75c7ddfbbb93a4f92544a584d3f757
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2435381531161059294
+    second: Tile set cu cel mare_0
+  - first:
+      213: 2300126088755057261
+    second: Tile set cu cel mare_1
+  - first:
+      213: 2314616029628644314
+    second: Tile set cu cel mare_2
+  - first:
+      213: -941273826570638833
+    second: Tile set cu cel mare_3
+  - first:
+      213: 1922507929405540453
+    second: Tile set cu cel mare_4
+  - first:
+      213: -2836004358484953307
+    second: Tile set cu cel mare_5
+  - first:
+      213: 8238958302707340898
+    second: Tile set cu cel mare_6
+  - first:
+      213: -1245569011665097455
+    second: Tile set cu cel mare_7
+  - first:
+      213: 4625397654071242616
+    second: Tile set cu cel mare_8
+  - first:
+      213: -1199130078384769761
+    second: Tile set cu cel mare_9
+  - first:
+      213: -7447942151195679863
+    second: Tile set cu cel mare_10
+  - first:
+      213: 3507549191396698077
+    second: Tile set cu cel mare_11
+  - first:
+      213: 6883662189695418191
+    second: Tile set cu cel mare_12
+  - first:
+      213: -2848003278253129987
+    second: Tile set cu cel mare_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile set cu cel mare_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220299e8669c33ed0800000000000000
+      internalID: -2435381531161059294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d629adabd70bbef10800000000000000
+      internalID: 2300126088755057261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbb07df30b2f1020800000000000000
+      internalID: 2314616029628644314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_3
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2008
+        width: 202
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a62ea117cefe2f0800000000000000
+      internalID: -941273826570638833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_4
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568c612a6ce1eaa10800000000000000
+      internalID: 1922507929405540453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_5
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1999
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5277b0fcf0d74a8d0800000000000000
+      internalID: -2836004358484953307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_6
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1997
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2665028ace8a65270800000000000000
+      internalID: 8238958302707340898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_7
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 1999
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11da77c4599d6bee0800000000000000
+      internalID: -1245569011665097455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_8
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1599
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f67d3f8a6b03040800000000000000
+      internalID: 4625397654071242616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_9
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1597
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15b3660c85db5fe0800000000000000
+      internalID: -1199130078384769761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_10
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1597
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983a25a031893a890800000000000000
+      internalID: -7447942151195679863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_11
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1597
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7a861e7615da030800000000000000
+      internalID: 3507549191396698077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_12
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 1597
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f35925a4ea78f50800000000000000
+      internalID: 6883662189695418191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile set cu cel mare_13
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 199
+        width: 1202
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfef2989b1cd978d0800000000000000
+      internalID: -2848003278253129987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tile set cu cel mare_0: -2435381531161059294
+      Tile set cu cel mare_1: 2300126088755057261
+      Tile set cu cel mare_10: -7447942151195679863
+      Tile set cu cel mare_11: 3507549191396698077
+      Tile set cu cel mare_12: 6883662189695418191
+      Tile set cu cel mare_13: -2848003278253129987
+      Tile set cu cel mare_2: 2314616029628644314
+      Tile set cu cel mare_3: -941273826570638833
+      Tile set cu cel mare_4: 1922507929405540453
+      Tile set cu cel mare_5: -2836004358484953307
+      Tile set cu cel mare_6: 8238958302707340898
+      Tile set cu cel mare_7: -1245569011665097455
+      Tile set cu cel mare_8: 4625397654071242616
+      Tile set cu cel mare_9: -1199130078384769761
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
