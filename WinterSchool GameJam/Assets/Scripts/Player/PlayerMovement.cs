@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -7,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D body;
     private Animator anim;
     private bool grounded;
+    private float lastGroundedY;
 
 
     private void Awake()
@@ -14,13 +16,15 @@ public class PlayerMovement : MonoBehaviour
         //Grabs references for rigidbody and animator from game object.
         body = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-   
+        anim.SetBool("falling", false);
+        lastGroundedY = transform.position.y;
     }
 
     private void Update()
     {
         float horizontalInput = Input.GetAxis("Horizontal");
         body.linearVelocity = new Vector2(horizontalInput * speed, body.linearVelocity.y);
+
 
         //Flip player when facing left/right.
         if (Input.GetKey(KeyCode.A))
@@ -30,7 +34,17 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetKey(KeyCode.Space) && grounded)
             Jump();
-
+      
+         if(grounded)
+        {
+            anim.SetBool("falling", false);
+            anim.SetBool("grounded", grounded);
+        }
+        else if (!grounded && transform.position.y < lastGroundedY)
+        {
+            anim.SetBool("falling", true);
+            lastGroundedY = transform.position.y;
+        }
         //sets animation parameters
         anim.SetBool("run", horizontalInput != 0);
         anim.SetBool("grounded", grounded);
@@ -49,11 +63,18 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Ground")
+        if (collision.gameObject.CompareTag("Ground"))
         {
-            anim.SetTrigger("idle");
             grounded = true;
+            lastGroundedY = transform.position.y; // Update last grounded Y position
         }
-        
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            grounded = false;
+        }
     }
 }
