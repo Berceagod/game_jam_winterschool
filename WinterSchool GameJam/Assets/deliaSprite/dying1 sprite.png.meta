@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dying1 sprite_0: 8929483503151242677
+      dying1 sprite_1: 8426585164221461732
+      dying1 sprite_10: -1217849470151185286
+      dying1 sprite_11: 4451649436519843150
+      dying1 sprite_2: 4379300614404539505
+      dying1 sprite_3: -5795455863956902949
+      dying1 sprite_4: -4636927162983244908
+      dying1 sprite_5: -7633627987031972528
+      dying1 sprite_6: 5107984692659470575
+      dying1 sprite_7: 5181721517877457249
+      dying1 sprite_8: -8793995226379066136
+      dying1 sprite_9: -3828011422813059510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
