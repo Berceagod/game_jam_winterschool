@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      meele sprites_0: -3718341715207996516
+      meele sprites_1: -2580115924044442984
+      meele sprites_2: -917537598517924517
+      meele sprites_3: -4534912562658419520
+      meele sprites_4: -1644361819751523043
+      meele sprites_5: 3394229793441001642
+      meele sprites_6: -5928691174913122715
+      meele sprites_7: -5722276625638565233
+      meele sprites_8: 1637813603795393712
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

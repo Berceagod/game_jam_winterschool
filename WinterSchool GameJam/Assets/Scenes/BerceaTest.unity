@@ -739,8 +739,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1612954627468116586, guid: 0cbc8d2895792aa43b73927afb0071e8, type: 3}
   m_PrefabInstance: {fileID: 1752626472}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
-=======
 --- !u!1 &156833891
 GameObject:
   m_ObjectHideFlags: 0
@@ -817,7 +815,7 @@ Transform:
   - {fileID: 1607856647}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> d5687d6f94abad8db1e75d32523e7924ffcab775
+
 --- !u!1 &174208516
 GameObject:
   m_ObjectHideFlags: 0
@@ -94803,12 +94801,8 @@ SceneRoots:
   - {fileID: 1768643}
   - {fileID: 1972715495}
   - {fileID: 1804193734}
-<<<<<<< HEAD
-  - {fileID: 8058226956282294401}
-=======
   - {fileID: 163528824}
   - {fileID: 1013339468}
->>>>>>> d5687d6f94abad8db1e75d32523e7924ffcab775
   - {fileID: 199263806}
   - {fileID: 3483888686953474041}
   - {fileID: 1840188861}
@@ -94824,3 +94818,4 @@ SceneRoots:
   - {fileID: 1990960143}
   - {fileID: 1609180346}
   - {fileID: 1652204512}
+
