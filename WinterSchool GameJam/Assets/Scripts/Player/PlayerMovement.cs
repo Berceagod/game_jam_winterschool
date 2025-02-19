@@ -29,9 +29,9 @@ public class PlayerMovement : MonoBehaviour
 
         //Flip player when facing left/right.
         if (Input.GetKey(KeyCode.A))
-            transform.localScale = new Vector3(-2,2,1);
+            transform.localScale = new Vector3(-1,1,1);
         else if (Input.GetKey(KeyCode.D))
-            transform.localScale = new Vector3(2, 2, 1);
+            transform.localScale = new Vector3(1, 1, 1);
 
         if (Input.GetKey(KeyCode.Space) && grounded)
             Jump();
