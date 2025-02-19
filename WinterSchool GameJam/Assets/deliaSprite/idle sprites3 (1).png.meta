@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: bdb337a52a4f80442b41066f1fabd0a7
+guid: 4913c775183e7c3489daa4ecba10b6f9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -886316486811849078
-    second: restart_button_2-removebg-preview_0
+      213: -4943706358838483705
+    second: idle sprites3 (1)_0
+  - first:
+      213: -933687418793461014
+    second: idle sprites3 (1)_1
+  - first:
+      213: -1025952645027294981
+    second: idle sprites3 (1)_2
+  - first:
+      213: -7640783611675145445
+    second: idle sprites3 (1)_3
+  - first:
+      213: 5870155334274921020
+    second: idle sprites3 (1)_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +125,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: restart_button_2-removebg-preview_0
+      name: idle sprites3 (1)_0
       rect:
         serializedVersion: 2
-        x: 55
-        y: 43
-        width: 674
-        height: 236
+        x: 0
+        y: 0
+        width: 296
+        height: 533
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8ee105e9db23b3f0800000000000000
-      internalID: -886316486811849078
+      spriteID: 705a79f624d646bb0800000000000000
+      internalID: -4943706358838483705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sprites3 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 299
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea709f4d30ea03f0800000000000000
+      internalID: -933687418793461014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sprites3 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 0
+        width: 299
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf096cc418513c1f0800000000000000
+      internalID: -1025952645027294981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sprites3 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 0
+        width: 299
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b0a7ca9cb76f590800000000000000
+      internalID: -7640783611675145445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sprites3 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 0
+        width: 299
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3232d3dc2bf67150800000000000000
+      internalID: 5870155334274921020
       vertices: []
       indices: 
       edges: []
@@ -138,7 +238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8a64e52c932a76049a750b58b2dfff70
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      restart_button_2-removebg-preview_0: -886316486811849078
+      idle sprites3 (1)_0: -4943706358838483705
+      idle sprites3 (1)_1: -933687418793461014
+      idle sprites3 (1)_2: -1025952645027294981
+      idle sprites3 (1)_3: -7640783611675145445
+      idle sprites3 (1)_4: 5870155334274921020
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

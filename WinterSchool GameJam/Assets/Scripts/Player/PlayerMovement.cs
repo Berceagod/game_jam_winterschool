@@ -33,7 +33,7 @@ public class PlayerMovement : MonoBehaviour
         else if (Input.GetKey(KeyCode.D))
             transform.localScale = new Vector3(1, 1, 1);
 
-        if (Input.GetKey(KeyCode.Space) && grounded)
+        if (Input.GetKey(KeyCode.W) && grounded)
             Jump();
       
          if(grounded)

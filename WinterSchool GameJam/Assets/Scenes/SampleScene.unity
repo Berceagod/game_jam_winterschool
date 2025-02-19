@@ -131,8 +131,8 @@ GameObject:
   - component: {fileID: 12247721}
   - component: {fileID: 12247720}
   - component: {fileID: 12247719}
-  - component: {fileID: 12247718}
   - component: {fileID: 12247723}
+  - component: {fileID: 12247724}
   m_Layer: 10
   m_Name: EnemySpider
   m_TagString: Untagged
@@ -140,21 +140,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &12247718
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 12247717}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea404b22bfb7c8e4a9cc3babbada00df, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  startingHealth: 3
-  iFramesDuration: 2
-  numberOfFlashes: 1
 --- !u!61 &12247719
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -193,7 +178,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.31, y: 2.33}
+    oldSize: {x: 2.92, y: 3.17}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -267,7 +252,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -7574616010636982249, guid: 0524b26eb1d73d14b993f8bf46534515, type: 3}
+  m_Sprite: {fileID: -7441986950261490070, guid: 70ff7bd0f56ae554fa0547db451494fe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -313,6 +298,25 @@ MonoBehaviour:
   playerLayer:
     serializedVersion: 2
     m_Bits: 512
+--- !u!114 &12247724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 12247717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4257fc141b4703b49bb030ad8e85f104, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startingHealth: 1
+  <currentHealth>k__BackingField: 0
+  anim: {fileID: 0}
+  dead: 0
+  iFramesDuration: 2
+  numberOfFlashes: 1
+  spriteRend: {fileID: 0}
 --- !u!1 &346352944
 GameObject:
   m_ObjectHideFlags: 0
@@ -345,7 +349,7 @@ MonoBehaviour:
   leftEdge: {fileID: 1927831129}
   rightEdge: {fileID: 397597137}
   enemy: {fileID: 12247722}
-  speed: 4
+  speed: 5.5
   idleDuration: 0
   anim: {fileID: 12247720}
 --- !u!4 &346352946
@@ -1523,8 +1527,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackCooldown: 1
-  range: 0
-  damage: 0
+  attackRange: 1
+  attackDamage: 10
   colliderDistance: 0
   boxCollider: {fileID: 1117164064}
   enemyLayer:
