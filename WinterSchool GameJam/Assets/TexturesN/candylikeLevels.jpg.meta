@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      candylikeLevels_0: -3286720470182389580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
