@@ -45,6 +45,8 @@ public class PlayerMovement : MonoBehaviour
         {
             anim.SetBool("falling", true);
             lastGroundedY = transform.position.y;
+            grounded = true;
+
         }
         //sets animation parameters
         anim.SetBool("run", horizontalInput != 0);
@@ -72,7 +74,8 @@ public class PlayerMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("Weapon"))
         {
             meleeAttack = true;
-        }
+            Physics2D.IgnoreLayerCollision(9, 8, true);
+        }   
     }
 
 

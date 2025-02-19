@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      image-20151218-27868-2sjolz_0: 2841376434226695674
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

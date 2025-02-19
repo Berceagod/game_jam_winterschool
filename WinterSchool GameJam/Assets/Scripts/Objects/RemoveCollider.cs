@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class RemoveCollision: MonoBehaviour
+public class RemoveCollision : MonoBehaviour
 {
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -9,13 +9,14 @@ public class RemoveCollision: MonoBehaviour
             RemoveCollider(collision.gameObject);
         }
     }
+
     private void RemoveCollider(GameObject obj)
     {
-        Collider2D collider2D = obj.GetComponent<BoxCollider2D>();
+        Collider2D collider2D = obj.GetComponent<Collider2D>(); // Get any 2D collider
+
         if (collider2D != null)
         {
-            Destroy(collider2D); // Removes 2D collider
-            return;
+            Destroy(obj); // Removes the collider completely
         }
     }
-    }
+}
