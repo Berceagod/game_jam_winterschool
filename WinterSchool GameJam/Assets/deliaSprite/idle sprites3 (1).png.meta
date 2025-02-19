@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 70ff7bd0f56ae554fa0547db451494fe
+guid: 4913c775183e7c3489daa4ecba10b6f9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7441986950261490070
-    second: death spider 400 px_0
+      213: -4943706358838483705
+    second: idle sprites3 (1)_0
   - first:
-      213: -7798590633528367648
-    second: death spider 400 px_1
+      213: -933687418793461014
+    second: idle sprites3 (1)_1
   - first:
-      213: 6556610071464287349
-    second: death spider 400 px_2
+      213: -1025952645027294981
+    second: idle sprites3 (1)_2
   - first:
-      213: 6294336422192252750
-    second: death spider 400 px_3
+      213: -7640783611675145445
+    second: idle sprites3 (1)_3
+  - first:
+      213: 5870155334274921020
+    second: idle sprites3 (1)_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,89 +125,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: death spider 400 px_0
+      name: idle sprites3 (1)_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 54
-        width: 292
-        height: 317
+        x: 0
+        y: 0
+        width: 296
+        height: 533
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a6e329e4c40c8b890800000000000000
-      internalID: -7441986950261490070
+      spriteID: 705a79f624d646bb0800000000000000
+      internalID: -4943706358838483705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death spider 400 px_1
+      name: idle sprites3 (1)_1
       rect:
         serializedVersion: 2
-        x: 442
-        y: 52
-        width: 309
-        height: 250
+        x: 347
+        y: 0
+        width: 299
+        height: 533
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e56ad33327d5c390800000000000000
-      internalID: -7798590633528367648
+      spriteID: aea709f4d30ea03f0800000000000000
+      internalID: -933687418793461014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death spider 400 px_2
+      name: idle sprites3 (1)_2
       rect:
         serializedVersion: 2
-        x: 847
-        y: 34
-        width: 317
-        height: 224
+        x: 697
+        y: 0
+        width: 299
+        height: 533
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 57c90602f12cdfa50800000000000000
-      internalID: 6556610071464287349
+      spriteID: bf096cc418513c1f0800000000000000
+      internalID: -1025952645027294981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death spider 400 px_3
+      name: idle sprites3 (1)_3
       rect:
         serializedVersion: 2
-        x: 1232
-        y: 8
-        width: 341
-        height: 114
+        x: 1047
+        y: 0
+        width: 299
+        height: 533
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e47829d80a9f95750800000000000000
-      internalID: 6294336422192252750
+      spriteID: b1b0a7ca9cb76f590800000000000000
+      internalID: -7640783611675145445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sprites3 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 0
+        width: 299
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3232d3dc2bf67150800000000000000
+      internalID: 5870155334274921020
       vertices: []
       indices: 
       edges: []
@@ -213,7 +238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8a64e52c932a76049a750b58b2dfff70
     internalID: 0
     vertices: []
     indices: 
@@ -223,10 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      death spider 400 px_0: -7441986950261490070
-      death spider 400 px_1: -7798590633528367648
-      death spider 400 px_2: 6556610071464287349
-      death spider 400 px_3: 6294336422192252750
+      idle sprites3 (1)_0: -4943706358838483705
+      idle sprites3 (1)_1: -933687418793461014
+      idle sprites3 (1)_2: -1025952645027294981
+      idle sprites3 (1)_3: -7640783611675145445
+      idle sprites3 (1)_4: 5870155334274921020
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
