@@ -34,7 +34,10 @@ public class PlayerMovement : MonoBehaviour
             transform.localScale = new Vector3(1, 1, 1);
 
         if (Input.GetKey(KeyCode.W) && grounded)
+        {
             Jump();
+            lastGroundedY = transform.position.y;
+        }
       
          if(grounded)
         {
