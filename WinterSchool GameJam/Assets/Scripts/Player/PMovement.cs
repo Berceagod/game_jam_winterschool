@@ -309,7 +309,7 @@ Debug.Log("Grounded: " + isGrounded);
         if (collision.gameObject.CompareTag("Feet"))
         {
             jump = true;
-            Physics2D.IgnoreLayerCollision(9, 8, true);
+            Physics2D.IgnoreLayerCollision(9, 13, true);
         }
 
     }
