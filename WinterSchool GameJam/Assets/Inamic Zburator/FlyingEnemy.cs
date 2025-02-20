@@ -37,25 +37,22 @@ public class FlyingEnemy : MonoBehaviour
     {
         cooldownTimer += Time.deltaTime;
 
-        if (chase == true)
+        // Chasing or returning to starting point
+        if (chase)
         {
             Chase();
-           
         }
-
         else
         {
             ReturnStart();
         }
-            
-        if (PlayerInSight())
+
+        // Attack the player when within sight and attack cooldown
+        if (PlayerInSight() && cooldownTimer >= attackCooldown)
         {
-            if (cooldownTimer >= attackCooldown)
-            {
-                cooldownTimer = 0;
-                anim.SetTrigger("meleeAttack");
-            }
-            ActivateChase(true);
+            cooldownTimer = 0;
+            anim.SetTrigger("meleeAttack");  // Trigger attack animation
+            DamagePlayer();  // Apply damage to the player
         }
 
     }
@@ -65,8 +62,8 @@ public class FlyingEnemy : MonoBehaviour
     {
         // Perform a boxcast to detect if the player is within range
         RaycastHit2D hit = Physics2D.BoxCast(boxCollider.bounds.center + transform.right * colliderDistance,
-            new Vector2(boxCollider.bounds.size.x * colliderDistance, boxCollider.bounds.size.y),
-            0, Vector2.left, 0, playerLayer);
+             new Vector2(boxCollider.bounds.size.x * colliderDistance, boxCollider.bounds.size.y),
+             0, Vector2.left, 0, playerLayer);
 
         if (hit.collider != null)
         {
@@ -80,8 +77,9 @@ public class FlyingEnemy : MonoBehaviour
     private void Chase()
     {
 
+        if (player == null) return;
         transform.position = Vector2.MoveTowards(transform.position, player.position, chaseSpeed * Time.deltaTime);
-        anim.SetBool("moving", true);
+        anim.SetBool("moving", true);  // Start the "moving" animation
     }
 
     // Deal damage to the player if within attack range
@@ -94,12 +92,7 @@ public class FlyingEnemy : MonoBehaviour
     }
 
     // Optionally visualize the detection range with Gizmos for debugging
-    private void OnDrawGizmos()
-    {
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireCube(boxCollider.bounds.center + transform.right * colliderDistance,
-            new Vector3(boxCollider.bounds.size.x * colliderDistance, boxCollider.bounds.size.y, boxCollider.bounds.size.z));
-    }
+
 
     // Call this method to activate chase mode
     public void ActivateChase(bool activate)
