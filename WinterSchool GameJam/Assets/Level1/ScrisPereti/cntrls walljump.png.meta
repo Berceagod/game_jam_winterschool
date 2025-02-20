@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: baea41a353ddc2f4d8011ba024e1e40c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6662183099494744404
+    second: cntrls walljump_0
+  - first:
+      213: -8813900443673547415
+    second: cntrls walljump_1
+  - first:
+      213: -4787368678158365015
+    second: cntrls walljump_2
+  - first:
+      213: 1109202434958204552
+    second: cntrls walljump_3
+  - first:
+      213: 6476841842210903991
+    second: cntrls walljump_4
+  - first:
+      213: 9184316656686310227
+    second: cntrls walljump_5
+  - first:
+      213: 6436510824246936541
+    second: cntrls walljump_6
+  - first:
+      213: 2119037610260322620
+    second: cntrls walljump_7
+  - first:
+      213: 5671383825154944147
+    second: cntrls walljump_8
+  - first:
+      213: -2024591026138301913
+    second: cntrls walljump_9
+  - first:
+      213: -7134978415625487168
+    second: cntrls walljump_10
+  - first:
+      213: 6163961415695554338
+    second: cntrls walljump_11
+  - first:
+      213: 5341360270945191554
+    second: cntrls walljump_12
+  - first:
+      213: 8985614380798105176
+    second: cntrls walljump_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cntrls walljump_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 432
+        width: 426
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae310ec4cb2b83a0800000000000000
+      internalID: -6662183099494744404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 775
+        width: 406
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2e299e3cbea580800000000000000
+      internalID: -8813900443673547415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 225
+        width: 185
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae0a814d89df8db0800000000000000
+      internalID: -4787368678158365015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 222
+        width: 105
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e9eafdcbda46f00800000000000000
+      internalID: 1109202434958204552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 219
+        width: 89
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b71e57f65d52e950800000000000000
+      internalID: 6476841842210903991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 222
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353ad72b65f357f70800000000000000
+      internalID: 9184316656686310227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 219
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd302381e74135950800000000000000
+      internalID: 6436510824246936541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 211
+        width: 85
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395249ba75586d10800000000000000
+      internalID: 2119037610260322620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_8
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 218
+        width: 134
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ca14b6a8dc4be40800000000000000
+      internalID: 5671383825154944147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_9
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 217
+        width: 92
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a359f303537e3e0800000000000000
+      internalID: -2024591026138301913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 59
+        width: 109
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc30980fe67bfc90800000000000000
+      internalID: -7134978415625487168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 47
+        width: 91
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2275fbfdf3aca8550800000000000000
+      internalID: 6163961415695554338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_12
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 66
+        width: 108
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286821fddd2502a40800000000000000
+      internalID: 5341360270945191554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cntrls walljump_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 62
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856dc18eba053bc70800000000000000
+      internalID: 8985614380798105176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cntrls walljump_0: -6662183099494744404
+      cntrls walljump_1: -8813900443673547415
+      cntrls walljump_10: -7134978415625487168
+      cntrls walljump_11: 6163961415695554338
+      cntrls walljump_12: 5341360270945191554
+      cntrls walljump_13: 8985614380798105176
+      cntrls walljump_2: -4787368678158365015
+      cntrls walljump_3: 1109202434958204552
+      cntrls walljump_4: 6476841842210903991
+      cntrls walljump_5: 9184316656686310227
+      cntrls walljump_6: 6436510824246936541
+      cntrls walljump_7: 2119037610260322620
+      cntrls walljump_8: 5671383825154944147
+      cntrls walljump_9: -2024591026138301913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
