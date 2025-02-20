@@ -41,6 +41,8 @@ public class EnemyHealth : MonoBehaviour
                 anim.SetTrigger("died");
                 GetComponent<SpiderEnemy>().enabled = false;
                 if (enemyPatrol != null) enemyPatrol.OnDisable();
+
+                Destroy(gameObject, 1f);
             }
         }
     }
