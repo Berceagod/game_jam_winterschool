@@ -7,7 +7,7 @@ public class ZoomAndDropTrigger : MonoBehaviour
     public Transform bucket;   // Găleata (sprite-ul)
     public float targetZoom = 7f;  // Zoom-ul dorit
     public float zoomSpeed = 1f;  // Viteza de zoom
-    public float bucketStartY = 5f;  // Poziția inițială Y a găleții
+    public float bucketStartY = 0f;  // Poziția inițială Y a găleții
     public float bucketEndY = 0f;  // Poziția finală Y a găleții
     public float dropSpeed = 2f;  // Viteza de coborâre a găleții
     private bool triggered = false;  // Asigură că se activează doar o dată
