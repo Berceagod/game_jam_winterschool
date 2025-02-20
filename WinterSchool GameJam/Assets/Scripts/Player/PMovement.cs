@@ -64,6 +64,7 @@ public class PMovement : MonoBehaviour
 
     private Animator anim;
     private bool meleeAttack = false;
+	private bool jump = false;
 
     private bool isLadder;
     private bool isClimbing;
@@ -305,6 +306,11 @@ Debug.Log("Grounded: " + isGrounded);
             meleeAttack = true;
             Physics2D.IgnoreLayerCollision(9, 8, true);
         }
+        if (collision.gameObject.CompareTag("Feet"))
+        {
+            jump = true;
+            Physics2D.IgnoreLayerCollision(9, 8, true);
+        }
 
     }
 
@@ -464,7 +470,11 @@ Debug.Log("Grounded: " + isGrounded);
 
     private bool CanJump()
     {
-		return LastOnGroundTime > 0 && !IsJumping;
+		if (jump == true)
+		{
+			return LastOnGroundTime > 0 && !IsJumping;
+		}
+		return LastOnGroundTime > 0 && IsJumping;
     }
 
 	private bool CanWallJump()
@@ -500,6 +510,15 @@ Debug.Log("Grounded: " + isGrounded);
         }
         return false;
     }
+
+	public bool canJump()
+	{
+		if(jump == true)
+		{
+			return true;
+		}
+		return false;
+	}
     #endregion
 
 
