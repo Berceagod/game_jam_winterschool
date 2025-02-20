@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &11102074 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7019131500404549782, guid: 6f2b9237a7d66c940a87af00c7decd93, type: 3}
+  m_PrefabInstance: {fileID: 9135487117141243488}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &377902160
 GameObject:
   m_ObjectHideFlags: 0
@@ -2032,9 +2037,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1143539687178437734, guid: 6f2b9237a7d66c940a87af00c7decd93, type: 3}
+      propertyPath: m_FirstSelected
+      value: 
+      objectReference: {fileID: 11102074}
     - target: {fileID: 3195159326555449020, guid: 6f2b9237a7d66c940a87af00c7decd93, type: 3}
       propertyPath: m_Name
       value: UiCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6006313136786235010, guid: 6f2b9237a7d66c940a87af00c7decd93, type: 3}
+      propertyPath: m_Type
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6006313136786235010, guid: 6f2b9237a7d66c940a87af00c7decd93, type: 3}
+      propertyPath: m_FillAmount
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6103248117777077331, guid: 6f2b9237a7d66c940a87af00c7decd93, type: 3}
       propertyPath: m_Pivot.x
