@@ -3,7 +3,7 @@ using UnityEngine;
 public class BucketTrigger : MonoBehaviour
 {
     public GameObject bucket; // Referință către găleată
-    public float targetY = 5f; // Y final unde ajunge găleata
+    public float targetY = -10f; // Y final unde ajunge găleata
     public float speed = 2f; // Viteza de ridicare
 
     private bool isMoving = false;
