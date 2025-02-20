@@ -797,7 +797,34 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ghost flying_0: 8345372759171184693
+      ghost flying_1: -8198051823904505561
+      ghost flying_10: -4749441818823167926
+      ghost flying_11: 2436850085704481804
+      ghost flying_12: 3765353746224931843
+      ghost flying_13: 7047645267989587755
+      ghost flying_14: 1810760813774661502
+      ghost flying_15: 1624671253893630674
+      ghost flying_16: 5679248607641346035
+      ghost flying_17: -9144249224799037794
+      ghost flying_18: -3277699633752954429
+      ghost flying_19: -768635716113071362
+      ghost flying_2: 190196554992362030
+      ghost flying_20: 5910516752975853218
+      ghost flying_21: 8682661514850241907
+      ghost flying_22: 6112331218018159071
+      ghost flying_23: 5109433525829964199
+      ghost flying_24: 6687826495701236624
+      ghost flying_25: 2087116225441725561
+      ghost flying_26: -5762622308436273392
+      ghost flying_3: 3616011272461910179
+      ghost flying_4: 3831254351461101722
+      ghost flying_5: -223214392086935360
+      ghost flying_6: -4802781105187315588
+      ghost flying_7: -7381924210663786804
+      ghost flying_8: 3942630081352383560
+      ghost flying_9: -2340094662560857527
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
