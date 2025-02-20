@@ -1,10 +1,52 @@
 fileFormatVersion: 2
-guid: 78f38743bad496142a5128e6303da916
+guid: 787ea4a24c799634498469bfb4fd45ee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6311352213680616822
-    second: background2_0
+      213: 7641112611867075030
+    second: hearts 5_0
+  - first:
+      213: 2941762840821664985
+    second: hearts 5_1
+  - first:
+      213: -8109499232594065050
+    second: hearts 5_2
+  - first:
+      213: -2704552179121551463
+    second: hearts 5_3
+  - first:
+      213: -8398620886667814724
+    second: hearts 5_4
+  - first:
+      213: -7666999271126526681
+    second: hearts 5_5
+  - first:
+      213: 5280263996443652859
+    second: hearts 5_6
+  - first:
+      213: -5361052263083692406
+    second: hearts 5_7
+  - first:
+      213: 690320199242837836
+    second: hearts 5_8
+  - first:
+      213: 1797954890256196149
+    second: hearts 5_9
+  - first:
+      213: -3958667376765622117
+    second: hearts 5_10
+  - first:
+      213: -9040393274336838082
+    second: hearts 5_11
+  - first:
+      213: -8449073974391096970
+    second: hearts 5_12
+  - first:
+      213: 2996534178191860200
+    second: hearts 5_13
+  - first:
+      213: -339806165615489615
+    second: hearts 5_14
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +155,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: background2_0
+      name: hearts 5_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2944
-        height: 1712
+        y: 326
+        width: 5000
+        height: 1008
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 77}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a8a0133c9929968a0800000000000000
-      internalID: -6311352213680616822
+      spriteID: c55fa0c23c4f490469f7ac1d07b11656
+      internalID: -1577347135
       vertices: []
       indices: 
       edges: []
@@ -138,7 +180,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c5eabf42c262f3a43bf190cd70179031
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +190,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      background2_0: -6311352213680616822
+      hearts 5_0: -1577347135
+      hearts 5_15: 1130387734
+      hearts 5_16: 1740416475
+      hearts 5_17: -33360689
+      hearts 5_18: 1141608108
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
