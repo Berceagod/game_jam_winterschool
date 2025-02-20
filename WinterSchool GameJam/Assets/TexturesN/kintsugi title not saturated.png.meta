@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kintsugi title not saturated_0: 8937626439835405869
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
