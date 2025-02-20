@@ -295,6 +295,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: died
     m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: moving
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -4488173951264849006}
   m_Solo: 0
