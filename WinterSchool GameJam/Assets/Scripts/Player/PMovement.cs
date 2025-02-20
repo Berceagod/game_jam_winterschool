@@ -305,11 +305,23 @@ Debug.Log("Grounded: " + isGrounded);
         {
             meleeAttack = true;
             Physics2D.IgnoreLayerCollision(9, 8, true);
+
+            GameObject weaponObject = GameObject.FindGameObjectWithTag("Weapon");
+            if (weaponObject != null)
+            {
+                Destroy(weaponObject, 1f); // Destroy the feet object after a delay
+            }
         }
         if (collision.gameObject.CompareTag("Feet"))
         {
             jump = true;
             Physics2D.IgnoreLayerCollision(9, 13, true);
+
+            GameObject feetObject = GameObject.FindGameObjectWithTag("Feet");
+            if (feetObject != null)
+            {
+                Destroy(feetObject, 1f); // Destroy the feet object after a delay
+            }
         }
 
     }
