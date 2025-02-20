@@ -304,7 +304,6 @@ Debug.Log("Grounded: " + isGrounded);
         if (collision.gameObject.CompareTag("Weapon"))
         {
             meleeAttack = true;
-            Physics2D.IgnoreLayerCollision(9, 8, true);
 
             GameObject weaponObject = GameObject.FindGameObjectWithTag("Weapon");
             if (weaponObject != null)
@@ -315,7 +314,6 @@ Debug.Log("Grounded: " + isGrounded);
         if (collision.gameObject.CompareTag("Feet"))
         {
             jump = true;
-            Physics2D.IgnoreLayerCollision(9, 13, true);
 
             GameObject feetObject = GameObject.FindGameObjectWithTag("Feet");
             if (feetObject != null)
