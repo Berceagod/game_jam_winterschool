@@ -1,0 +1,2912 @@
+fileFormatVersion: 2
+guid: ba3480c0f35649d4ab385bad1b9e9f6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6038690546110025313
+    second: Credits ingame_0
+  - first:
+      213: -8138660369038348846
+    second: Credits ingame_1
+  - first:
+      213: -7952221809577115097
+    second: Credits ingame_2
+  - first:
+      213: -5350110278235404263
+    second: Credits ingame_3
+  - first:
+      213: -3582450089501647482
+    second: Credits ingame_4
+  - first:
+      213: 8811507999324344396
+    second: Credits ingame_5
+  - first:
+      213: 6639051284730618120
+    second: Credits ingame_6
+  - first:
+      213: 2518821163744005934
+    second: Credits ingame_7
+  - first:
+      213: -9076172909193763066
+    second: Credits ingame_8
+  - first:
+      213: -4464040304595095443
+    second: Credits ingame_9
+  - first:
+      213: 2282508954055321670
+    second: Credits ingame_10
+  - first:
+      213: 1766845091642825629
+    second: Credits ingame_11
+  - first:
+      213: 5883500612692180106
+    second: Credits ingame_12
+  - first:
+      213: -6081170004992274829
+    second: Credits ingame_13
+  - first:
+      213: -1528238223224112309
+    second: Credits ingame_14
+  - first:
+      213: -6239892763817224585
+    second: Credits ingame_15
+  - first:
+      213: -4622207006550742770
+    second: Credits ingame_16
+  - first:
+      213: -4242294877540866269
+    second: Credits ingame_17
+  - first:
+      213: 4046413992122515760
+    second: Credits ingame_18
+  - first:
+      213: 648704758433581230
+    second: Credits ingame_19
+  - first:
+      213: -8690804479990596676
+    second: Credits ingame_20
+  - first:
+      213: -2957336461934937400
+    second: Credits ingame_21
+  - first:
+      213: 924919237267656097
+    second: Credits ingame_22
+  - first:
+      213: 4004643670786343027
+    second: Credits ingame_23
+  - first:
+      213: -7630619420118586209
+    second: Credits ingame_24
+  - first:
+      213: -3486510937580974818
+    second: Credits ingame_25
+  - first:
+      213: 1514946847937518263
+    second: Credits ingame_26
+  - first:
+      213: 6333477797215169069
+    second: Credits ingame_27
+  - first:
+      213: -7397392275036586018
+    second: Credits ingame_28
+  - first:
+      213: -2788694976846282309
+    second: Credits ingame_29
+  - first:
+      213: 8628907920626210870
+    second: Credits ingame_30
+  - first:
+      213: -3378119118638169289
+    second: Credits ingame_31
+  - first:
+      213: -4891018605268541173
+    second: Credits ingame_32
+  - first:
+      213: -4052857159364999557
+    second: Credits ingame_33
+  - first:
+      213: -8220959857144344679
+    second: Credits ingame_34
+  - first:
+      213: 4054020980757114087
+    second: Credits ingame_35
+  - first:
+      213: -8367692962661447229
+    second: Credits ingame_36
+  - first:
+      213: -6794544704210426378
+    second: Credits ingame_37
+  - first:
+      213: -1850189873696853564
+    second: Credits ingame_38
+  - first:
+      213: -4932896118058958026
+    second: Credits ingame_39
+  - first:
+      213: 5027344774584250828
+    second: Credits ingame_40
+  - first:
+      213: -145650188819200953
+    second: Credits ingame_41
+  - first:
+      213: -1131680875801481029
+    second: Credits ingame_42
+  - first:
+      213: -6599843343132130347
+    second: Credits ingame_43
+  - first:
+      213: 7931417504581051969
+    second: Credits ingame_44
+  - first:
+      213: 9202559366401112600
+    second: Credits ingame_45
+  - first:
+      213: 6359051741647940038
+    second: Credits ingame_46
+  - first:
+      213: -495612045767526308
+    second: Credits ingame_47
+  - first:
+      213: 4215313920411173986
+    second: Credits ingame_48
+  - first:
+      213: -2456946689959607070
+    second: Credits ingame_49
+  - first:
+      213: 2217797786450263406
+    second: Credits ingame_50
+  - first:
+      213: 362709380657177547
+    second: Credits ingame_51
+  - first:
+      213: 7632538167765676613
+    second: Credits ingame_52
+  - first:
+      213: 8741320661585041123
+    second: Credits ingame_53
+  - first:
+      213: -1537512025404170345
+    second: Credits ingame_54
+  - first:
+      213: -2467221580789054539
+    second: Credits ingame_55
+  - first:
+      213: 4529997630801126025
+    second: Credits ingame_56
+  - first:
+      213: 2775817112213903931
+    second: Credits ingame_57
+  - first:
+      213: 4649442776856269877
+    second: Credits ingame_58
+  - first:
+      213: -6907942798002207474
+    second: Credits ingame_59
+  - first:
+      213: -6532197421298659751
+    second: Credits ingame_60
+  - first:
+      213: 8031193616995617969
+    second: Credits ingame_61
+  - first:
+      213: -163261466608465216
+    second: Credits ingame_62
+  - first:
+      213: 232895100372608714
+    second: Credits ingame_63
+  - first:
+      213: -3059180226410020089
+    second: Credits ingame_64
+  - first:
+      213: 4616912213615942130
+    second: Credits ingame_65
+  - first:
+      213: 723126052285002687
+    second: Credits ingame_66
+  - first:
+      213: 3364299860826155594
+    second: Credits ingame_67
+  - first:
+      213: -6062068466206900083
+    second: Credits ingame_68
+  - first:
+      213: 1119008153455995337
+    second: Credits ingame_69
+  - first:
+      213: -2211076795770416812
+    second: Credits ingame_70
+  - first:
+      213: 4397572709863910454
+    second: Credits ingame_71
+  - first:
+      213: 6451488383544626186
+    second: Credits ingame_72
+  - first:
+      213: -155576254721221316
+    second: Credits ingame_73
+  - first:
+      213: -930769028134032696
+    second: Credits ingame_74
+  - first:
+      213: 3682129390016246776
+    second: Credits ingame_75
+  - first:
+      213: -3125743869114192686
+    second: Credits ingame_76
+  - first:
+      213: -8164986183633718277
+    second: Credits ingame_77
+  - first:
+      213: -1124316137816569084
+    second: Credits ingame_78
+  - first:
+      213: 7073010840927608094
+    second: Credits ingame_79
+  - first:
+      213: -7013269659539625602
+    second: Credits ingame_80
+  - first:
+      213: 952723574525683302
+    second: Credits ingame_81
+  - first:
+      213: -2772478307525353932
+    second: Credits ingame_82
+  - first:
+      213: -3556047248472769303
+    second: Credits ingame_83
+  - first:
+      213: 1180796380565301816
+    second: Credits ingame_84
+  - first:
+      213: 5280914031723973126
+    second: Credits ingame_85
+  - first:
+      213: 4329976681608902317
+    second: Credits ingame_86
+  - first:
+      213: 321871733568856367
+    second: Credits ingame_87
+  - first:
+      213: 2067774881909831717
+    second: Credits ingame_88
+  - first:
+      213: 6463963886072548118
+    second: Credits ingame_89
+  - first:
+      213: -4851487230817160087
+    second: Credits ingame_90
+  - first:
+      213: 5014548359869001318
+    second: Credits ingame_91
+  - first:
+      213: -749878798753289892
+    second: Credits ingame_92
+  - first:
+      213: -4951554474189558069
+    second: Credits ingame_93
+  - first:
+      213: -8885063059112375706
+    second: Credits ingame_94
+  - first:
+      213: -8719401689585259718
+    second: Credits ingame_95
+  - first:
+      213: -3283190971766252092
+    second: Credits ingame_96
+  - first:
+      213: -2359754846597044048
+    second: Credits ingame_97
+  - first:
+      213: 8909810260091490028
+    second: Credits ingame_98
+  - first:
+      213: -4728610484502675952
+    second: Credits ingame_99
+  - first:
+      213: 6060115707003343160
+    second: Credits ingame_100
+  - first:
+      213: -6095532571840370432
+    second: Credits ingame_101
+  - first:
+      213: 569546499018608628
+    second: Credits ingame_102
+  - first:
+      213: -5610417066667568198
+    second: Credits ingame_103
+  - first:
+      213: 6849625419498757755
+    second: Credits ingame_104
+  - first:
+      213: -8792033572575441753
+    second: Credits ingame_105
+  - first:
+      213: -4837975194020318138
+    second: Credits ingame_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Credits ingame_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 899
+        width: 262
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ec56dae0dbdc350800000000000000
+      internalID: 6038690546110025313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_1
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 928
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd6bebc38bad0f80800000000000000
+      internalID: -8138660369038348846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_2
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 932
+        width: 279
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722ca09956804a190800000000000000
+      internalID: -7952221809577115097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_3
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 869
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918cc9c4c0790c5b0800000000000000
+      internalID: -5350110278235404263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 869
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d10bdcf94984ec0800000000000000
+      internalID: -3582450089501647482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 900
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c409d3b07d3c84a70800000000000000
+      internalID: 8811507999324344396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 900
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80128ffd7f5a22c50800000000000000
+      internalID: 6639051284730618120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 854
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f82bdc086a4f220800000000000000
+      internalID: 2518821163744005934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 886
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076b73a3d4fa0280800000000000000
+      internalID: -9076172909193763066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 855
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6035959efa8c02c0800000000000000
+      internalID: -4464040304595095443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 886
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648ad1becc91daf10800000000000000
+      internalID: 2282508954055321670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 855
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b538cef38158810800000000000000
+      internalID: 1766845091642825629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 886
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c7f4792a466a150800000000000000
+      internalID: 5883500612692180106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_13
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 869
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ecca199185b9ba0800000000000000
+      internalID: -6081170004992274829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_14
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 869
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b7d84de6b9acae0800000000000000
+      internalID: -1528238223224112309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 869
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776d42877927769a0800000000000000
+      internalID: -6239892763817224585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_16
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 869
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a830973f9adfb0800000000000000
+      internalID: -4622207006550742770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_17
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 869
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327a7b719475025c0800000000000000
+      internalID: -4242294877540866269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_18
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 869
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03102a64610c72830800000000000000
+      internalID: 4046413992122515760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_19
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 869
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea80a827a89a00900800000000000000
+      internalID: 648704758433581230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_20
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 869
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb79cd0f5f046780800000000000000
+      internalID: -8690804479990596676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_21
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 869
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cabe01182e65f6d0800000000000000
+      internalID: -2957336461934937400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_22
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 869
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad83475529f5dc00800000000000000
+      internalID: 924919237267656097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_23
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 869
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3708c39733a539730800000000000000
+      internalID: 4004643670786343027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_24
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 869
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c62afe0189a1690800000000000000
+      internalID: -7630619420118586209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_25
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 869
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dc8fb46cc6d9fc0800000000000000
+      internalID: -3486510937580974818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 855
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bad9e4b12c260510800000000000000
+      internalID: 1514946847937518263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 855
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a65d7108805e750800000000000000
+      internalID: 6333477797215169069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 855
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfb93e3bee275990800000000000000
+      internalID: -7397392275036586018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 855
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1492691b09c49d0800000000000000
+      internalID: -2788694976846282309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 855
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638da70390a00c770800000000000000
+      internalID: 8628907920626210870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 855
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733cd944f828e11d0800000000000000
+      internalID: -3378119118638169289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 855
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0164230e7c9f1cb0800000000000000
+      internalID: -4891018605268541173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_33
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 855
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7686a2f2eb51c7c0800000000000000
+      internalID: -4052857159364999557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_34
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 855
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f4a22019849ed80800000000000000
+      internalID: -8220959857144344679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 539
+        width: 224
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec22065a96c24830800000000000000
+      internalID: 4054020980757114087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_36
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 530
+        width: 248
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9470b959bffdb80800000000000000
+      internalID: -8367692962661447229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_37
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 549
+        width: 251
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5a60f279de4b1a0800000000000000
+      internalID: -6794544704210426378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 472
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c13643dc1ec256e0800000000000000
+      internalID: -1850189873696853564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 472
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6334131cd15da8bb0800000000000000
+      internalID: -4932896118058958026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 503
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1b28cbf67b4c540800000000000000
+      internalID: 5027344774584250828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 472
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74486f9cceb8afdf0800000000000000
+      internalID: -145650188819200953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_42
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 476
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0ffb64d367b40f0800000000000000
+      internalID: -1131680875801481029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_43
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 507
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d302676275a864a0800000000000000
+      internalID: -6599843343132130347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_44
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 476
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1466edda23e021e60800000000000000
+      internalID: 7931417504581051969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_45
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 476
+        width: 6
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a38ca8cfe06bf70800000000000000
+      internalID: 9202559366401112600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_46
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 507
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c921490ed3ef3850800000000000000
+      internalID: 6359051741647940038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_47
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 479
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c583f91687b3f19f0800000000000000
+      internalID: -495612045767526308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_48
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 510
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2640eda4dadcf7a30800000000000000
+      internalID: 4215313920411173986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_49
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 478
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4c2e0c00c27edd0800000000000000
+      internalID: -2456946689959607070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_50
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 479
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6df30d165337ce10800000000000000
+      internalID: 2217797786450263406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_51
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 510
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3e5ce824a980500800000000000000
+      internalID: 362709380657177547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 472
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542b84056093ce960800000000000000
+      internalID: 7632538167765676613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 472
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e61f8504d86f4970800000000000000
+      internalID: 8741320661585041123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 472
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f94ef75f8a9aae0800000000000000
+      internalID: -1537512025404170345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_55
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 472
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b304ee4b0ba2cdd0800000000000000
+      internalID: -2467221580789054539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_56
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 472
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982234128d8cdde30800000000000000
+      internalID: 4529997630801126025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 472
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ad5f6e4fea58620800000000000000
+      internalID: 2775817112213903931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_58
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 472
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534160e5293268040800000000000000
+      internalID: 4649442776856269877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 472
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e054c5400ae0220a0800000000000000
+      internalID: -6907942798002207474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_60
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 472
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e45cced09f855a0800000000000000
+      internalID: -6532197421298659751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_61
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 476
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc88672b08847f60800000000000000
+      internalID: 8031193616995617969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_62
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 476
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca0b45af8afbbdf0800000000000000
+      internalID: -163261466608465216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_63
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 476
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac663af1cd86b3300800000000000000
+      internalID: 232895100372608714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_64
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 476
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7038ee4dacb9b85d0800000000000000
+      internalID: -3059180226410020089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_65
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 476
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f99db36231921040800000000000000
+      internalID: 4616912213615942130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_66
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 476
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb33742305f090a00800000000000000
+      internalID: 723126052285002687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_67
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 479
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a607a06e460be20800000000000000
+      internalID: 3364299860826155594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_68
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 479
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8004a329d43fdba0800000000000000
+      internalID: -6062068466206900083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 479
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9a28f9cf3878f00800000000000000
+      internalID: 1119008153455995337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_70
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 479
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451def87e5da051e0800000000000000
+      internalID: -2211076795770416812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_71
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 479
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ce36d8411570d30800000000000000
+      internalID: 4397572709863910454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_72
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 479
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c8cbdd08a488950800000000000000
+      internalID: 6451488383544626186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_73
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 479
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d1bd9783847ddf0800000000000000
+      internalID: -155576254721221316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_74
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 479
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caa226108e3513f0800000000000000
+      internalID: -930769028134032696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 117
+        width: 256
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3b1f4eb2d891330800000000000000
+      internalID: 3682129390016246776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_76
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 112
+        width: 274
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dce79e03802f94d0800000000000000
+      internalID: -3125743869114192686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_77
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 64
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf33a80735420be80800000000000000
+      internalID: -8164986183633718277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 64
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b4436fd60a560f0800000000000000
+      internalID: -1124316137816569084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_79
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d1af9a2e1682260800000000000000
+      internalID: 7073010840927608094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79ad1d076cdbae90800000000000000
+      internalID: -7013269659539625602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_81
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6666eb41b01c83d00800000000000000
+      internalID: 952723574525683302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_82
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 55
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e99742bad2689d0800000000000000
+      internalID: -2772478307525353932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_83
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec76464ed166aec0800000000000000
+      internalID: -3556047248472769303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_84
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a69af4d08036010800000000000000
+      internalID: 1180796380565301816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_85
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 64
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a88461553994940800000000000000
+      internalID: 5280914031723973126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6f509c9da271c30800000000000000
+      internalID: 4329976681608902317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_87
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 64
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216c96e2a4877400800000000000000
+      internalID: 321871733568856367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528f5bfac4632bc10800000000000000
+      internalID: 2067774881909831717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_89
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bce4628ec94b950800000000000000
+      internalID: 6463963886072548118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_90
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 64
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964bcce511e0cacb0800000000000000
+      internalID: -4851487230817160087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_91
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 64
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e62034a21479540800000000000000
+      internalID: 5014548359869001318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_92
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 64
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59a6bf9435e795f0800000000000000
+      internalID: -749878798753289892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_93
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 64
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce6fefa07b884bb0800000000000000
+      internalID: -4951554474189558069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_94
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 56
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a49aa093ae1b480800000000000000
+      internalID: -8885063059112375706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_95
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 56
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b64565c567ef680800000000000000
+      internalID: -8719401689585259718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_96
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 56
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd5a1ec433cf62d0800000000000000
+      internalID: -3283190971766252092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_97
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 56
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8a3933877704fd0800000000000000
+      internalID: -2359754846597044048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_98
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 56
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee42e0b93106ab70800000000000000
+      internalID: 8909810260091490028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_99
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 56
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eb70e41d9906eb0800000000000000
+      internalID: -4728610484502675952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_100
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 56
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83113bda02bd91450800000000000000
+      internalID: 6060115707003343160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_101
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 56
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009a1a2eb61586ba0800000000000000
+      internalID: -6095532571840370432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_102
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 56
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff4215f58f67e700800000000000000
+      internalID: 569546499018608628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_103
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 56
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab39d73376bc322b0800000000000000
+      internalID: -5610417066667568198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_104
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 56
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e95b53702ce0f50800000000000000
+      internalID: 6849625419498757755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_105
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 56
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac05554c0c6cf580800000000000000
+      internalID: -8792033572575441753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits ingame_106
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 56
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6447448913f0cdcb0800000000000000
+      internalID: -4837975194020318138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Credits ingame_0: 6038690546110025313
+      Credits ingame_1: -8138660369038348846
+      Credits ingame_10: 2282508954055321670
+      Credits ingame_100: 6060115707003343160
+      Credits ingame_101: -6095532571840370432
+      Credits ingame_102: 569546499018608628
+      Credits ingame_103: -5610417066667568198
+      Credits ingame_104: 6849625419498757755
+      Credits ingame_105: -8792033572575441753
+      Credits ingame_106: -4837975194020318138
+      Credits ingame_11: 1766845091642825629
+      Credits ingame_12: 5883500612692180106
+      Credits ingame_13: -6081170004992274829
+      Credits ingame_14: -1528238223224112309
+      Credits ingame_15: -6239892763817224585
+      Credits ingame_16: -4622207006550742770
+      Credits ingame_17: -4242294877540866269
+      Credits ingame_18: 4046413992122515760
+      Credits ingame_19: 648704758433581230
+      Credits ingame_2: -7952221809577115097
+      Credits ingame_20: -8690804479990596676
+      Credits ingame_21: -2957336461934937400
+      Credits ingame_22: 924919237267656097
+      Credits ingame_23: 4004643670786343027
+      Credits ingame_24: -7630619420118586209
+      Credits ingame_25: -3486510937580974818
+      Credits ingame_26: 1514946847937518263
+      Credits ingame_27: 6333477797215169069
+      Credits ingame_28: -7397392275036586018
+      Credits ingame_29: -2788694976846282309
+      Credits ingame_3: -5350110278235404263
+      Credits ingame_30: 8628907920626210870
+      Credits ingame_31: -3378119118638169289
+      Credits ingame_32: -4891018605268541173
+      Credits ingame_33: -4052857159364999557
+      Credits ingame_34: -8220959857144344679
+      Credits ingame_35: 4054020980757114087
+      Credits ingame_36: -8367692962661447229
+      Credits ingame_37: -6794544704210426378
+      Credits ingame_38: -1850189873696853564
+      Credits ingame_39: -4932896118058958026
+      Credits ingame_4: -3582450089501647482
+      Credits ingame_40: 5027344774584250828
+      Credits ingame_41: -145650188819200953
+      Credits ingame_42: -1131680875801481029
+      Credits ingame_43: -6599843343132130347
+      Credits ingame_44: 7931417504581051969
+      Credits ingame_45: 9202559366401112600
+      Credits ingame_46: 6359051741647940038
+      Credits ingame_47: -495612045767526308
+      Credits ingame_48: 4215313920411173986
+      Credits ingame_49: -2456946689959607070
+      Credits ingame_5: 8811507999324344396
+      Credits ingame_50: 2217797786450263406
+      Credits ingame_51: 362709380657177547
+      Credits ingame_52: 7632538167765676613
+      Credits ingame_53: 8741320661585041123
+      Credits ingame_54: -1537512025404170345
+      Credits ingame_55: -2467221580789054539
+      Credits ingame_56: 4529997630801126025
+      Credits ingame_57: 2775817112213903931
+      Credits ingame_58: 4649442776856269877
+      Credits ingame_59: -6907942798002207474
+      Credits ingame_6: 6639051284730618120
+      Credits ingame_60: -6532197421298659751
+      Credits ingame_61: 8031193616995617969
+      Credits ingame_62: -163261466608465216
+      Credits ingame_63: 232895100372608714
+      Credits ingame_64: -3059180226410020089
+      Credits ingame_65: 4616912213615942130
+      Credits ingame_66: 723126052285002687
+      Credits ingame_67: 3364299860826155594
+      Credits ingame_68: -6062068466206900083
+      Credits ingame_69: 1119008153455995337
+      Credits ingame_7: 2518821163744005934
+      Credits ingame_70: -2211076795770416812
+      Credits ingame_71: 4397572709863910454
+      Credits ingame_72: 6451488383544626186
+      Credits ingame_73: -155576254721221316
+      Credits ingame_74: -930769028134032696
+      Credits ingame_75: 3682129390016246776
+      Credits ingame_76: -3125743869114192686
+      Credits ingame_77: -8164986183633718277
+      Credits ingame_78: -1124316137816569084
+      Credits ingame_79: 7073010840927608094
+      Credits ingame_8: -9076172909193763066
+      Credits ingame_80: -7013269659539625602
+      Credits ingame_81: 952723574525683302
+      Credits ingame_82: -2772478307525353932
+      Credits ingame_83: -3556047248472769303
+      Credits ingame_84: 1180796380565301816
+      Credits ingame_85: 5280914031723973126
+      Credits ingame_86: 4329976681608902317
+      Credits ingame_87: 321871733568856367
+      Credits ingame_88: 2067774881909831717
+      Credits ingame_89: 6463963886072548118
+      Credits ingame_9: -4464040304595095443
+      Credits ingame_90: -4851487230817160087
+      Credits ingame_91: 5014548359869001318
+      Credits ingame_92: -749878798753289892
+      Credits ingame_93: -4951554474189558069
+      Credits ingame_94: -8885063059112375706
+      Credits ingame_95: -8719401689585259718
+      Credits ingame_96: -3283190971766252092
+      Credits ingame_97: -2359754846597044048
+      Credits ingame_98: 8909810260091490028
+      Credits ingame_99: -4728610484502675952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

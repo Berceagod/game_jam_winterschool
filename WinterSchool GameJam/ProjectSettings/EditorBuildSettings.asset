@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
@@ -14,16 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels.unity
     guid: 6e2ebe2214d358a469d2bad063f3c9db
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BerceaTest.unity
-    guid: ee43ab0b59b34b3478eb0d61b7d8f888
+    guid: 3635911720b0ea8408b8bf14bc037b6d
   - enabled: 1
     path: Assets/Scenes/Extras.unity
     guid: 85b170a2e0b48b348ba33496723d672e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/StolenBerceaTest2.unity
     guid: 61d8b1dc3e51fc64f9ff60f239fd9022
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/StolenBerceaTest3.unity
     guid: 6a6b0a9c01885334395b516f0cf567b2
   - enabled: 1
@@ -32,15 +32,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cutscene.unity
     guid: 42f977c5f404ec14ca5bcfd197dbfc93
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/OctavianScena.unity
     guid: c6efd29122fd1f04190e02edb45aa32e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/OctavianTest.unity
     guid: 7f8f0f90fa3285a49a2ff9e5b00b2410
   - enabled: 1
     path: Assets/Scenes/Level2Cutscene.unity
     guid: 90ca1af277277514e9a08dbdd0041781
+  - enabled: 1
+    path: Assets/Scenes/FinalGAME.unity
+    guid: 81b18aa99397d7d439cc1065b3a37430
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
