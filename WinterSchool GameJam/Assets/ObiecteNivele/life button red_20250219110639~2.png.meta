@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      life button red_20250219110639~2_0: -7771799727683308083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
