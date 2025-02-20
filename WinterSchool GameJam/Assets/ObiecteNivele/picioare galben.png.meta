@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      picioare galben_0: -8510043729106110899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
