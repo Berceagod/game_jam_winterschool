@@ -134,6 +134,8 @@ GameObject:
   - component: {fileID: 103716066}
   - component: {fileID: 103716071}
   - component: {fileID: 103716070}
+  - component: {fileID: 103716073}
+  - component: {fileID: 103716072}
   m_Layer: 5
   m_Name: Level2
   m_TagString: Untagged
@@ -217,9 +219,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 103716066}
-        m_TargetAssemblyTypeName: Level1, Assembly-CSharp
-        m_MethodName: Level1Func
+      - m_Target: {fileID: 103716073}
+        m_TargetAssemblyTypeName: ToLevel2, Assembly-CSharp
+        m_MethodName: PlayLevel2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -280,7 +282,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 6f62adaf2bd1700408cc4329a3231918, type: 3}
   m_Resource: {fileID: 8300000, guid: 6f62adaf2bd1700408cc4329a3231918, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.306
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -379,6 +381,30 @@ MonoBehaviour:
   hoverAudioSource: {fileID: 103716070}
   minPitch: 0.8
   maxPitch: 1.6
+--- !u!114 &103716072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 103716064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7e2575c6d63aa64ea13e7daade28572, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &103716073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 103716064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7e2575c6d63aa64ea13e7daade28572, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &280595794
 GameObject:
   m_ObjectHideFlags: 0
@@ -619,7 +645,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 6f62adaf2bd1700408cc4329a3231918, type: 3}
   m_Resource: {fileID: 8300000, guid: 6f62adaf2bd1700408cc4329a3231918, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.301
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1436,7 +1462,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 6f62adaf2bd1700408cc4329a3231918, type: 3}
   m_Resource: {fileID: 8300000, guid: 6f62adaf2bd1700408cc4329a3231918, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.314
   m_Pitch: 1
   Loop: 0
   Mute: 0
