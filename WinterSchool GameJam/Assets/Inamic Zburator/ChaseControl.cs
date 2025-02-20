@@ -4,6 +4,7 @@ public class ChaseControl : MonoBehaviour
 {
     public FlyingEnemy[] enemyArray;
 
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
@@ -11,7 +12,7 @@ public class ChaseControl : MonoBehaviour
             // Foreach corect: specificăm un nume pentru fiecare element din array
             foreach (FlyingEnemy enemy in enemyArray)
             {
-                enemy.chase = true;
+                enemy.ActivateChase(true);
             }
         }
     }
@@ -22,7 +23,7 @@ public class ChaseControl : MonoBehaviour
         {
             foreach (FlyingEnemy enemy in enemyArray)
             {
-                enemy.chase = false;
+                enemy.ActivateChase(false);
             }
         }
     }
