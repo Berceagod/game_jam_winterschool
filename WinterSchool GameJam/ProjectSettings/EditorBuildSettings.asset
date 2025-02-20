@@ -29,6 +29,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Shhhhh.unity
     guid: ab9006dcada43a24eb398a9d600c5930
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 42f977c5f404ec14ca5bcfd197dbfc93
+  - enabled: 1
+    path: Assets/Scenes/OctavianScena.unity
+    guid: c6efd29122fd1f04190e02edb45aa32e
+  - enabled: 1
+    path: Assets/Scenes/OctavianTest.unity
+    guid: 7f8f0f90fa3285a49a2ff9e5b00b2410
+  - enabled: 1
+    path: Assets/Scenes/Level2Cutscene.unity
+    guid: 90ca1af277277514e9a08dbdd0041781
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
