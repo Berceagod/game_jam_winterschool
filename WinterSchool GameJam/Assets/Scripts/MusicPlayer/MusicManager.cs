@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class MusicManager : MonoBehaviour
 {
-    public string[] allowedScenes = {"Menu", "Levels", "Extras"};
+    public string[] allowedScenes = {"Menu", "Levels"};
 
     private void Awake()
     {
